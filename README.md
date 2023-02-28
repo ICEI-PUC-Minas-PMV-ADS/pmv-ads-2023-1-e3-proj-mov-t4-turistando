@@ -1,10 +1,10 @@
 # TÍTULO DO PROJETO
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Projeto: Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio`
 
-`SEMESTRE`
+`2023.1`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
@@ -40,7 +40,7 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 <li><a href="docs/12-Apresentação do Projeto.md"> Apresentação do Projeto</a></li>
 <li><a href="docs/13-Referências.md"> Referências</a></li>
 </ol>
-
+.
 # Código
 
 <li><a href="src/README.md"> Código Fonte</a></li>
