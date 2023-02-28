@@ -6,7 +6,7 @@
 
 `2023.1`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto tem por objetivo o desenvolvimento de um aplicativo móvel que visa catalogar e apresentar as regiões do país, pontos de visitação e toda sua infraestrutura ao redor, a exemplo de hotéis, pousadas e comércios.
 
 ## Integrantes
 
