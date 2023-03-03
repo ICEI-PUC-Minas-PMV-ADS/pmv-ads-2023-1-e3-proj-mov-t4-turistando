@@ -29,7 +29,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 | Mariana Monteiro | Compartilhar minhas viagens com pessoas interessadas | Pessoas possam conhecer e experimentar os lugares que fui |
 | Mariana Monteiro | Conhecer novos lugares para viajar | Poder conhecer lugares menos divulgados e conhecidos pela mídia de massa | 
 | Juarez da Cunha | Dar visibilidade para a pousada | Aumentar o número de hóspedes |
-| Juarez da Cunha | Aumentar o fluxo de clientes no restaurante, incrementando o lucro mensal 
+| Juarez da Cunha | Aumentar o fluxo de clientes no restaurante, incrementando o lucro mensal | Aumentar o fluxo de clientes |
+
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
