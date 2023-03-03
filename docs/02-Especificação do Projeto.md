@@ -7,19 +7,49 @@ A base para a construção do presente projeto consiste na criação de um servi
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+João Marcos 
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+Idade: 25 anos 
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+Ocupação: Designer Gráfico. 
+
+Gosta de viajar, conhecer novos lugares, usa o Instagram e Twitter para descobrir locais e pontos turísticos com o intuito de se aventurar por essas localidades e obter novas experiências e compartilhando essas suas experiências com seus amigos nas suas redes sociais. 
+
+ 
+
+ 
+
+ Juarez da Cunha 
+
+Idade: 72 anos 
+
+Ocupação: Proprietário de uma pousada. 
+
+ Tem o WhatsApp e o telefone fixo para agendar suas hospedagens. Não é muito integrado as redes sociais e sente uma certa dificuldade no uso dessas redes, se sentindo mais confortável com os agendamentos pelo telefone fixo e WhatsApp 
+
+ 
+
+Mariana Monteiro 
+
+	Idade: 31 anos  
+
+	Ocupação: Digital Influencer 
+
+           Usa as redes sociais para compartilhar suas viagens e experiências pessoais e assim atrai o interesse dos seus seguidores nos destinos que visitou. Compartilha fotos e vídeos de seus locais de viagem, dicas úteis, informações sobre os melhores pontos turísticos, hotéis e restaurantes, e todas as suas experiências, a fim de inspirar outras pessoas a também conhecer esses locais. Aproveita para promover esses destinos e incentivar outras pessoas a visitá-los. 
+
+ 
+
+Ana Clara  
+
+Idade :22 anos 
+
+Ocupação: guia turística. 
+
+Tem suas redes sociais como principal ferramenta para fazer a divulgação dos seus serviços, captar seus clientes e agendar seus passeios, compartilhando com todos o seu dia a dia. 
+
+  
+
+ 
 
 ## Histórias de Usuários
 
