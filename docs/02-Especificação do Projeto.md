@@ -24,9 +24,8 @@ Usa as redes sociais para compartilhar suas viagens e experiências pessoais e a
 
 > Ana Clara  
 Idade: 22 anos 
-
- Ocupação: guia turística 
- Tem suas redes sociais como principal ferramenta para fazer a divulgação dos seus serviços, captar seus clientes e agendar seus passeios, compartilhando com todos o seu dia a dia. 
+Ocupação: guia turística  
+Tem suas redes sociais como principal ferramenta para fazer a divulgação dos seus serviços, captar seus clientes e agendar seus passeios, compartilhando com todos o seu dia a dia. 
 
   
 
