@@ -8,23 +8,23 @@ A base para a construção do presente projeto consiste na criação de um servi
 ## Personas
 
 > João Marcos 
-Idade: 25 anos 
-Ocupação: Designer Gráfico. 
+|Idade: 25 anos |
+Ocupação: Designer Gráfico |
 Gosta de viajar, conhecer novos lugares, usa o Instagram e Twitter para descobrir locais e pontos turísticos com o intuito de se aventurar por essas localidades e obter novas experiências e compartilhando essas suas experiências com seus amigos nas suas redes sociais. 
 
  > Juarez da Cunha 
-Idade: 72 anos 
-Ocupação: Proprietário de uma pousada. 
+| Idade: 72 anos |
+Ocupação: Proprietário de uma pousada | 
 Tem o WhatsApp e o telefone fixo para agendar suas hospedagens. Não é muito integrado as redes sociais e sente uma certa dificuldade no uso dessas redes, se sentindo mais confortável com os agendamentos pelo telefone fixo e WhatsApp 
 
  > Mariana Monteiro 
-Idade: 31 anos  
-Ocupação: Digital Influencer 
+| Idade: 31 anos | 
+Ocupação: Digital Influencer |
 Usa as redes sociais para compartilhar suas viagens e experiências pessoais e assim atrai o interesse dos seus seguidores nos destinos que visitou. Compartilha fotos e vídeos de seus locais de viagem, dicas úteis, informações sobre os melhores pontos turísticos, hotéis e restaurantes, e todas as suas experiências, a fim de inspirar outras pessoas a também conhecer esses locais. Aproveita para promover esses destinos e incentivar outras pessoas a visitá-los. 
 
 > Ana Clara  
-Idade :22 anos 
-Ocupação: guia turística. 
+|Idade: 22 anos |
+Ocupação: guia turística |
 Tem suas redes sociais como principal ferramenta para fazer a divulgação dos seus serviços, captar seus clientes e agendar seus passeios, compartilhando com todos o seu dia a dia. 
 
   
