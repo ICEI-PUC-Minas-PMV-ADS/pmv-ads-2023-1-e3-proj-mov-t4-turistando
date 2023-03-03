@@ -8,8 +8,8 @@ A base para a construção do presente projeto consiste na criação de um servi
 ## Personas
 
 > João Marcos 
-> Idade: 25 anos 
->Ocupação: Designer Gráfico 
+Idade: 25 anos 
+Ocupação: Designer Gráfico 
 Gosta de viajar, conhecer novos lugares, usa o Instagram e Twitter para descobrir locais e pontos turísticos com o intuito de se aventurar por essas localidades e obter novas experiências e compartilhando essas suas experiências com seus amigos nas suas redes sociais. 
 
  > Juarez da Cunha 
