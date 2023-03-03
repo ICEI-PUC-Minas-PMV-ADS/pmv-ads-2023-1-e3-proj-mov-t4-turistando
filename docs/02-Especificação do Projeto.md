@@ -2,9 +2,9 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
+A base para a construção do presente projeto consiste na criação de um serviço de hospedagem e exposição de locais voltados para o turismo, que ofereça aos usuários a possibilidade de reservar hospedagens com o próprio locatário, além de serviços essenciais aos visitantes em seu local de destino. A partir das pesquisas e consolidação das ideias dos membros da equipe de desenvolvedores, foram criados personas e histórias de usuários a quem se destina a aplicação.  
 
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+ 
 
 ## Personas
 
