@@ -22,7 +22,7 @@ Tem o WhatsApp e o telefone fixo para agendar suas hospedagens. Não é muito in
 Ocupação: Digital Influencer |
 Usa as redes sociais para compartilhar suas viagens e experiências pessoais e assim atrai o interesse dos seus seguidores nos destinos que visitou. Compartilha fotos e vídeos de seus locais de viagem, dicas úteis, informações sobre os melhores pontos turísticos, hotéis e restaurantes, e todas as suas experiências, a fim de inspirar outras pessoas a também conhecer esses locais. Aproveita para promover esses destinos e incentivar outras pessoas a visitá-los. 
 
-> ''Ana Clara'
+> 'Ana Clara'
 > 
 Idade: 22 anos 
 Ocupação: guia turística  
