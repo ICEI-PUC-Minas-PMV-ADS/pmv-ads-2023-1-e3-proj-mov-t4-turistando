@@ -1,33 +1,26 @@
 # Especificações do Projeto
 
+<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-A base para a construção do presente projeto consiste na criação de um serviço de hospedagem e exposição de locais voltados para o turismo, que ofereça aos usuários a possibilidade de reservar hospedagens com o próprio locatário, além de serviços essenciais aos visitantes em seu local de destino. A partir das pesquisas e consolidação das ideias dos membros da equipe de desenvolvedores, foram criados personas e histórias de usuários a quem se destina a aplicação.  
+Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
 
- 
+Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
 
 ## Personas
 
-> João Marcos 
-| Idade: 25 anos |
-Ocupação: Designer Gráfico |
-Gosta de viajar, conhecer novos lugares, usa o Instagram e Twitter para descobrir locais e pontos turísticos com o intuito de se aventurar por essas localidades e obter novas experiências e compartilhando essas suas experiências com seus amigos nas suas redes sociais. 
+Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
 
- > Juarez da Cunha 
-| Idade: 72 anos |
-Ocupação: Proprietário de uma pousada | 
-Tem o WhatsApp e o telefone fixo para agendar suas hospedagens. Não é muito integrado as redes sociais e sente uma certa dificuldade no uso dessas redes, se sentindo mais confortável com os agendamentos pelo telefone fixo e WhatsApp 
+Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
- > Mariana Monteiro 
-| Idade: 31 anos | 
-Ocupação: Digital Influencer |
-Usa as redes sociais para compartilhar suas viagens e experiências pessoais e assim atrai o interesse dos seus seguidores nos destinos que visitou. Compartilha fotos e vídeos de seus locais de viagem, dicas úteis, informações sobre os melhores pontos turísticos, hotéis e restaurantes, e todas as suas experiências, a fim de inspirar outras pessoas a também conhecer esses locais. Aproveita para promover esses destinos e incentivar outras pessoas a visitá-los. 
-
-> `Ana Clara`
-| Idade: 22 anos | Ocupação: guia turística | Tem suas redes sociais como principal ferramenta para fazer a divulgação dos seus serviços, captar seus clientes e agendar seus passeios, compartilhando com todos o seu dia a dia. 
-
-  
-
- 
+> **Links Úteis**:
+> - [Rock Content](https://rockcontent.com/blog/personas/)
+> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
+> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
+> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
+> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
+> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
+>
+Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
 
 ## Histórias de Usuários
 
@@ -175,6 +168,28 @@ O gerenciamento adequado de tarefas contribuirá para que o projeto alcance alto
 
 ## Gestão de Orçamento
 
-O processo de determinar o orçamento do projeto é uma tarefa que depende, além dos produtos (saídas) dos processos anteriores do gerenciamento de custos, também de produtos oferecidos por outros processos de gerenciamento, como o escopo e o tempo.
+A gestão de orçamento é uma prática fundamental para a saúde financeira de qualquer pessoa, família ou empresa. Ela envolve a criação, monitoramento e controle de um plano financeiro que permita gerir adequadamente as receitas e despesas, visando alcançar objetivos financeiros específicos.
 
-![Orçamento](img/02-orcamento.png)
+Uma boa gestão de orçamento é essencial para manter o equilíbrio financeiro, evitar o endividamento excessivo e garantir que os recursos financeiros sejam utilizados de forma eficiente e estratégica. Isso significa que é preciso ter um planejamento financeiro sólido, que leve em conta não apenas as despesas imediatas, mas também as metas de curto, médio e longo prazo.
+
+Para isso, é necessário ter conhecimento sobre aspectos como controle de gastos, fluxo de caixa, investimentos, endividamento e equilíbrio entre receitas e despesas. Com uma gestão de orçamento bem-feita, é possível tomar decisões financeiras mais acertadas e alcançar uma maior estabilidade financeira ao longo do tempo.
+
+Para o orçamento de Recursos Humanos foi adicionado o custo salarial de 6 desenvolvedores mobile, sendo orçado um salário de R$ 3.747,00, para 6 meses, totalizando R$ 20.844,00.
+
+Para o orçamento de Software foi adicionado o custo para os softwares MS Project, utilizado para o planejamento, gerenciamento e controle de tarefas entre a equipe desenvolvedora sendo o custo total para 6 meses de R$ 2.111,40. Além disso foi adicionado o custo para o software Azure, ferramenta necessária para o desenvolvimento do código e suporte armazenamento de dados sendo o custo total para 6 meses de R$ 5.031,06.
+
+Para o orçamento de Hardware foi adicionado o custo para notebooks voltados ao desenvolvimento da equipe, com custo unitário de R$ 3.300,00, totalizando R$ 19.800,00 para todos os 6 desenvolvedores.
+
+Para o orçamento de serviços foi definido custos gerais como internet e infraestrutura em geral (energia, comida, etc...) para 6 meses totalizando R$ 9.000,00.
+
+O custo total do projeto será de R$ 56.786,46 num tempo de 6 meses de projeto.
+
+|Recursos Necessários| R$ |
+|--------------------|------------------------------------|
+|Recursos Humanos  | 20.844,00           |
+|Software       | 7.142,46                 |
+|Hardware       |  19.800,00               |
+|Serviços      | 9.000,00                 |
+|Total      | 56.786,46                 |
+
+
