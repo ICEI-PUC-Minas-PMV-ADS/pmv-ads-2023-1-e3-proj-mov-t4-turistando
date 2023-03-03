@@ -1,6 +1,5 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
 A base para a construção do presente projeto consiste na criação de um serviço de hospedagem e exposição de locais voltados para o turismo, que ofereça aos usuários a possibilidade de reservar hospedagens com o próprio locatário, além de serviços essenciais aos visitantes em seu local de destino. A partir das pesquisas e consolidação das ideias dos membros da equipe de desenvolvedores, foram criados personas e histórias de usuários a quem se destina a aplicação.  
 
