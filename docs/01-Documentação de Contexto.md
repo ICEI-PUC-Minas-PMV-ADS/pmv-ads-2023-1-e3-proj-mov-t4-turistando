@@ -12,10 +12,10 @@ Várias regiões possuem grande potencial turístico, mas que são pouco explora
 
 Com a retomada da atividade turística, ocorre uma “recuperação econômica das Atividades Características do Turismo, de forma a “zerar” a perda causada pelo cenário atual” que chegou a totalizar “R$ 116,7 bilhões no biênio 2020-2021” como aponto um estudo recente da FGV. Em tal cenário ressurge a oportunidade de exploração do mercado de viagens, devido a uma ascendente procura de novos destinos por pessoas dos mais variados lugares do país. Visando a crescente procura do setor, o desenvolvimento de um aplicativo com o objetivo de catalogar e apresentar as regiões do país, pontos de visitação e toda sua infraestrutura ao redor, a exemplo de hotéis, pousadas e comércios. Abaixo, são listadas algumas funcionalidades a ser implementada no aplicativo.  
 
-Cadastro de usuários 
-Cadastro de pontos turísticos 
-Cadastro de estabelecimentos da região  
-Visualização dos pontos filtrados pelo destino escolhido 
+-Cadastro de usuários; 
+-Cadastro de pontos turísticos; 
+-Cadastro de estabelecimentos da região;  
+-Visualização dos pontos filtrados pelo destino escolhido;
 
 ## Justificativa
 
