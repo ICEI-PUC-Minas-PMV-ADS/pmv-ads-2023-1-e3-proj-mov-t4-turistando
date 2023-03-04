@@ -14,6 +14,7 @@ O projeto tem por objetivo o desenvolvimento de um aplicativo móvel que visa ca
 * Arthur Hudson Ferreira Machado 
 * Elder Ferreira Ramos 
 * Felipe Maurício Ribeiro Nascente
+* Franciele Félix
 * Guilherme Bonfim Lima
 * Matheus Fernandes Rosa 
 
