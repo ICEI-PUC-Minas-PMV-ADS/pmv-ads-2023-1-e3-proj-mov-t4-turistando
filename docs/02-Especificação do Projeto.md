@@ -64,7 +64,7 @@ Obs.: todas as informações para gerar os indicadores devem estar no diagrama d
 
 ## Requisitos
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto. Para determinar a prioridade de requisitos, aplicar uma técnica de priorização de requisitos e detalhar como a técnica foi aplicada.
+Visando listar as funcionalidades para a elaboração da plataforma Turistando, foram explicitados os requisitos referentes ao desenvolvimento do software na tabela abaixo. 
 
 ### Requisitos Funcionais
 
