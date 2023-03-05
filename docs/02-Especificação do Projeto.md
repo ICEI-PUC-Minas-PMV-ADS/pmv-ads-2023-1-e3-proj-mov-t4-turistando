@@ -34,33 +34,15 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 ## Modelagem do Processo de Negócio 
 
 ### Análise da Situação Atual
-
-Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o modelo do sistema como ele funciona hoje. Caso sua proposta seja inovadora e não existam processos claramente definidos, apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente, mesmo que não se utilize tecnologia computacional. 
-
+[próxima etapa]
 ### Descrição Geral da Proposta
-
-Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
-
+[próxima etapa]
 ### Processo 1 – NOME DO PROCESSO
-
-Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN. 
-
-![Processo 1](img/02-bpmn-proc1.png)
-
+[próxima etapa]
 ### Processo 2 – NOME DO PROCESSO
-
-Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
-
-![Processo 2](img/02-bpmn-proc2.png)
-
+[próxima etapa]
 ## Indicadores de Desempenho
-
-Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no diagrama de classe. Colocar no mínimo 5 indicadores. 
-
-Usar o seguinte modelo: 
-
-![Indicadores de Desempenho](img/02-indic-desemp.png)
-Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe a ser apresentado a posteriori. 
+[próxima etapa]
 
 ## Requisitos
 
@@ -115,29 +97,37 @@ No rodapé da página inicial constará um link direto para uma lista de cidades
 
 # Matriz de Rastreabilidade
 
-![image](https://user-images.githubusercontent.com/102244252/222964432-5c1438ac-208b-4639-8c02-c7ac3f7c82e0.png)
+Foram adicionados os seguintes stakeholders: Engenheiro de Software (focado no desenvolvimento atual, tecnológico e de qualidade), Arquiteto de Software (focado na estrutura do software), Desenvolvedor (com uma visão geral sobre a implementação), e Product Owner (que traz a visão do cliente e elicita os casos de uso)
+A matriz de rastreabilidade abaixo mostra como as seguintes partes e artefatos estão relacionados entre si:
+* PO: Product Owner
+* BL-01 Documento atual tido como baseline 1 com as descrições dos requisitos
+* CT: Caso de Teste (Colunas a serem inseridas)
+* RF: Requisito Funcional
+* RNF: Requisito não funcional
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/blob/a3f64062ef92decf08883a3feae0bc012b95723a/docs/img/matriz_rastreabilidade.png)
 
 
 
 # Gerenciamento de Projeto
 
-De acordo com o PMBoK v6 as dez áreas que constituem os pilares para gerenciar projetos, e que caracterizam a multidisciplinaridade envolvida, são: Integração, Escopo, Cronograma (Tempo), Custos, Qualidade, Recursos, Comunicações, Riscos, Aquisições, Partes Interessadas. Para desenvolver projetos um profissional deve se preocupar em gerenciar todas essas dez áreas. Elas se complementam e se relacionam, de tal forma que não se deve apenas examinar uma área de forma estanque. É preciso considerar, por exemplo, que as áreas de Escopo, Cronograma e Custos estão muito relacionadas. Assim, se eu amplio o escopo de um projeto eu posso afetar seu cronograma e seus custos.
+Integração, Escopo, Cronograma (Tempo), Custos, Qualidade, Recursos, Comunicações, Riscos, Aquisições, Partes Interessadas são partes constituintes do Gerenciamento de projetos. Muito embora elas sejam separadas para estudo, essa é apenas uma forma didática, porque na realidade elas são codependentes e intrelaçadas de forma que se uma dessas áreas não é bem executada, todo o projeto é prejudicado. Se o escopo é alterado, por exemplo, os custos e prazos devem ser alterados.
 
 ## Gerenciamento de Tempo
 
-Com diagramas bem organizados que permitem gerenciar o tempo nos projetos, o gerente de projetos agenda e coordena tarefas dentro de um projeto para estimar o tempo necessário de conclusão.
+O Gráfico de Gantt é umas das formas mais utilizadas de se estimar o tempo de um projeto. Se trata de uma ferramenta visual que informa:
+* Duração de cada atividade
+* Relacionamento entre elas (se são realizadas de forma paralela ou sequencial)
+* Ordem de realização das atividades
+* Demais informações que podem ser adquiridas da ferramenta visual como tempo total do projeto, data de início e término, atividades críticas (de maior duração, etc.
 
-![Diagrama de rede simplificado notação francesa (método francês)](img/02-diagrama-rede-simplificado.png)
-
-O gráfico de Gantt ou diagrama de Gantt também é uma ferramenta visual utilizada para controlar e gerenciar o cronograma de atividades de um projeto. Com ele, é possível listar tudo que precisa ser feito para colocar o projeto em prática, dividir em atividades e estimar o tempo necessário para executá-las.
-
-![Gráfico de Gantt](img/02-grafico-gantt.png)
+![Gráfico de Gantt]([docs/img/Grafico de Gantt.jpeg](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/blob/7e6c0daf23ad5ed4a9b1da14a92fbdc80c8f1b0c/docs/img/Grafico%20de%20Gantt.jpeg))
 
 ## Gerenciamento de Equipe
 
-O gerenciamento adequado de tarefas contribuirá para que o projeto alcance altos níveis de produtividade. Por isso, é fundamental que ocorra a gestão de tarefas e de pessoas, de modo que os times envolvidos no projeto possam ser facilmente gerenciados. 
+Gerenciar pessoas é um desafio que deve ser levado à sério porque recursos humanos é o recurso mais valioso de qualquer projeto. Para tanto, é construído um diagrama em que as atividades de cada equipe/pessoa envolvida no tempo fique bem clara.
 
-![Simple Project Timeline](img/02-project-timeline.png)
+![Simple Project Timeline](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/blob/7e6c0daf23ad5ed4a9b1da14a92fbdc80c8f1b0c/docs/img/Gerenciamento_equipe.jpeg)
 
 ## Gestão de Orçamento
 
