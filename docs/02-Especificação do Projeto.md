@@ -120,12 +120,14 @@ O Gráfico de Gantt é umas das formas mais utilizadas de se estimar o tempo de 
 * Relacionamento entre elas (se são realizadas de forma paralela ou sequencial)
 * Ordem de realização das atividades
 * Demais informações que podem ser adquiridas da ferramenta visual como tempo total do projeto, data de início e término, atividades críticas (de maior duração, etc.
+A imagem abaixo traz o gráfico de Gantt referente a essa etapa do projeto.
 
-![Gráfico de Gantt]([docs/img/Grafico de Gantt.jpeg](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/blob/7e6c0daf23ad5ed4a9b1da14a92fbdc80c8f1b0c/docs/img/Grafico%20de%20Gantt.jpeg))
+![Gráfico de Gantt](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/blob/9ad3897e78d39dc36eb9055108b2406483d0e873/docs/img/Grafico_de_Gantt.jpeg)
 
 ## Gerenciamento de Equipe
 
-Gerenciar pessoas é um desafio que deve ser levado à sério porque recursos humanos é o recurso mais valioso de qualquer projeto. Para tanto, é construído um diagrama em que as atividades de cada equipe/pessoa envolvida no tempo fique bem clara.
+Gerenciar pessoas é um desafio que deve ser levado à sério porque recursos humanos é o recurso mais valioso de qualquer projeto. Para tanto, é construído um diagrama em que as atividades de cada equipe/pessoa envolvida no tempo fiquem bem claras.
+A imagem abaixo traz as atividades a serem realizadas por cada agente do projeto nessa etapa.
 
 ![Simple Project Timeline](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/blob/7e6c0daf23ad5ed4a9b1da14a92fbdc80c8f1b0c/docs/img/Gerenciamento_equipe.jpeg)
 
