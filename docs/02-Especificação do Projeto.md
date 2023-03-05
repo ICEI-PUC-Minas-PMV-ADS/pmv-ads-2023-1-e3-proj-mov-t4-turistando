@@ -70,30 +70,25 @@ Visando listar as funcionalidades para a elaboração da plataforma Turistando, 
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| A plataforma deve possuir uma página de login com usuário e senha.  | ALTA | 
+|RF-002| O app fornecerá a funcionalidade para autenticação do usuário.   | ALTA |
+|RF-003| O app deverá fornecer informações sobre os pontos turísticos da cidade.  | ALTA |
+|RF-004| O programa deve possibilitar o compartilhamento de localidades por redes sociais.   | MÉDIA |
+|RF-005| O app deve apresentar, para cada anúncio, informações como um breve descritivo, título, imagem, dados de contato e valor (aproximadamente). | ALTA |
+|RF-006|  A plataforma deve oferecer um campo nos anúncios para texto alternativo (alt texts) onde serão descritas as imagens dos anúncios e pontos turísticos com detalhes. (Recurso de acessibilidade). | ALTA |
+|RF-007| Apresentar hospedagens próximas a cidade e/ou região desejada. | MÉDIA |
+|RF-008| Ter a opção de selecionar como favorito lugares e hospedagens.  | BAIXA |
+|RF-009| Opção de avaliar os pontos turísticos e hospedagens.  | BAIXA |
+|RF-010| Apresentar uma aba de pesquisa onde o usuário poderá verificar os pontos turísticos da cidade e/ou região desejada.  | MÉDIA |
 
-### Requisitos não Funcionais
-
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+### Requisitos Não Funcionais
+|ID     | Descrição do Requisito  | Prioridade |
+|-------|-----------------------------------------|----|
+|RNF-001| O aplicativo deverá ser compatível com os principais aparelhos do mercado (Android e iOS).  | MÉDIA |
+|RNF-002| O aplicativo deverá ser responsivo permitindo a visualização em celular e tablet de forma adequada  | ALTA |
+|RNF-003| O app deve ter bom nível de contraste entre os elementos da tela em conformidade.   | ALTA | 
+|RNF-004| O aplicativo terá manutenções programadas em horários com baixo número de usuários ativos.   | ALTA | 
+|RNF-005| O site deve ser publicado em um ambiente acessível publicamente na Internet via GitHub.   | ALTA | 
 
 ## Restrições
 
@@ -101,27 +96,22 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|01| O projeto deve estar finalizado e não extrapolar a data de 23/06/2023.  |
+|02| A plataforma deve se restringir às tecnologias básicas utilizando ferramentas de desenvolvimento móvel. (JS e React Native).  |
+|03| A equipe não pode subcontratar o desenvolvimento do trabalho.   |
+|04| A plataforma se compromete em não compartilhar históricos de pesquisa, localização em tempo real e dados sensíveis dos usuários.   |
 
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
 
 ## Diagrama de Casos de Uso
 
-O diagrama de casos de uso é o próximo passo após a elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos. 
+A plataforma Turistando tem como intuito facilitar o planejamento de viagens, além de dar maior visibilidade aos pontos turísticos e estabelecimentos das cidades cadastradas no aplicativo, aumentando assim o percentual de novos visitantes e fomentando a economia local. O software deverá gerir e ordenar os estabelecimentos como pousadas, restaurantes e afins de acordo com o local escolhido por meio de uma pesquisa realizada na página inicial do programa. 
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Casos de Uso”.
+A inserção dos locais e estabelecimentos regionais será realizada, inicialmente, pela própria equipe administradora da plataforma. Quanto ao recurso de listagem de cidades turísticas, será possível realizar a consulta mesmo antes de realizar o login na plataforma, porém será necessário a autenticação na plataforma para registro de reservas aos estabelecimentos locais. 
 
-> **Links Úteis**:
-> - [Criando Casos de Uso](https://www.ibm.com/docs/pt-br/elm/6.0?topic=requirements-creating-use-cases)
-> - [Como Criar Diagrama de Caso de Uso: Tutorial Passo a Passo](https://gitmind.com/pt/fazer-diagrama-de-caso-uso.html/)
-> - [Lucidchart](https://www.lucidchart.com/)
-> - [Astah](https://astah.net/)
-> - [Diagrams](https://app.diagrams.net/)
+No rodapé da página inicial constará um link direto para uma lista de cidades cadastradas, bem como as informações de privacidade e termos de uso que estarão disponíveis a todos os usuários e administradores da plataforma. 
+
+![Captura de tela 2023-03-05 103536](https://user-images.githubusercontent.com/102244252/222964160-c832700f-e581-4c9a-b389-6e8f2c7f5877.png)
+
 
 # Matriz de Rastreabilidade
 
