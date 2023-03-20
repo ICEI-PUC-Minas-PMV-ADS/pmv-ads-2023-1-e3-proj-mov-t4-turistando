@@ -1,7 +1,6 @@
 
 # Metodologia
 
-# Metodologia
 
 Para que tenhamos uma boa produtividade no desenvolvimento do nosso software iremos usar as seguintes ferramentas:
 
