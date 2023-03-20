@@ -1,9 +1,17 @@
 
 # Metodologia
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
+# Metodologia
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+Para que tenhamos uma boa produtividade no desenvolvimento do nosso software iremos usar as seguintes ferramentas:
+
+|Ambiente   | Plataforma  | Link de Acesso |
+|------|-----------------------------------------|----|
+|Repositório de código fonte| GitHub | [Github](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando)|
+|Documentos do  projeto| Google Drive |Google Drive |
+|Projeto de Interface e Wireframes | Canva ||
+|Gerenciamento do Projeto | Github e Microsoft Teams |
+|Editor de Código | VSCode | Instalado na máquina local |
 
 ## Relação de Ambientes de Trabalho
 
