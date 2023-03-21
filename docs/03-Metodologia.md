@@ -1,6 +1,9 @@
 
 # Metodologia
 
+Esta seção descreve como a equipe trabalhará para desenvolver soluções. As seções a seguir descrevem os ambientes de trabalho aplicados pela equipe bem como a estrutura utilizada para gerenciar o código-fonte e a definição do processo e da ferramenta pela qual a equipe se organiza.
+
+## Relação de Ambientes de Trabalho
 
 Para que tenhamos uma boa produtividade no desenvolvimento do nosso software iremos usar as seguintes ferramentas:
 
@@ -12,10 +15,7 @@ Para que tenhamos uma boa produtividade no desenvolvimento do nosso software ire
 |Gerenciamento do Projeto | Github e Microsoft Teams |
 |Editor de Código | VSCode | Instalado na máquina local |
 
-## Relação de Ambientes de Trabalho
 
-Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito deverá ser apresentada em uma tabela que especifica que detalha Ambiente, Plataforma e Link de Acesso. 
-Nota: Vide documento modelo do estudo de caso "Portal de Notícias" e defina também os ambientes e frameworks que serão utilizados no desenvolvimento de aplicações móveis.
 
 ## Controle de Versão
 
