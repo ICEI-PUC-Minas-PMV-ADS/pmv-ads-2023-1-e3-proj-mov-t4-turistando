@@ -52,10 +52,6 @@ A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para def
 - Equipe de Desenvolvimento: Franciele Teixeira, Felipe Ribeiro Guilherme Bonfim;
 - Equipe de Design: Anna Freitas e  Elder Ferreira.
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-> - [Os papéis do Scrum e a verdade sobre cargos nessa técnica](https://www.atlassian.com/br/agile/scrum/roles)
 
 ### Processo
 
