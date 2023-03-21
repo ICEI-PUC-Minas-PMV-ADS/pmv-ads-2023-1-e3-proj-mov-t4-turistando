@@ -55,7 +55,8 @@ A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para def
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo deverá fazer uso do recurso de gerenciamento de projeto oferecido pelo GitHub, que permite acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
+O grupo utilizou o recurso de gerenciamento de projeto oferecido pelo GitHub, que permite acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução. Acesse em: [Github](https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/287/views/1)
+
  
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/blob/bcaab5d7c98c6c012efa82e1a5a50aa5b742871e/docs/img/backlog.png)
 
