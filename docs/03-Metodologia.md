@@ -1,7 +1,7 @@
 
 # Metodologia
 
-Esta seção descreve como a equipe trabalhará para desenvolver soluções. As seções a seguir descrevem os ambientes de trabalho aplicados pela equipe bem como a estrutura utilizada para gerenciar o código-fonte e a definição do processo e da ferramenta pela qual a equipe se organiza.
+Esta seção descreve como a equipe trabalhou para desenvolver soluções. As seções descrevem os ambientes de trabalho aplicados pela equipe bem como a estrutura utilizada para gerenciar o código-fonte e a definição do processo e da ferramenta pela qual a equipe utilizou.
 
 ## Relação de Ambientes de Trabalho
 
