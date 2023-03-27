@@ -71,6 +71,7 @@ Visando listar as funcionalidades para a elaboração da plataforma Turistando, 
 |RNF-003| O app deve ter bom nível de contraste entre os elementos da tela em conformidade.   | ALTA | 
 |RNF-004| O aplicativo terá manutenções programadas em horários com baixo número de usuários ativos.   | ALTA | 
 |RNF-005| O site deve ser publicado em um ambiente acessível publicamente na Internet via GitHub.   | ALTA | 
+|RNF-006|O site deve ser intuituvo e não apresentar travamentos| ALTA |
 
 ## Restrições
 
