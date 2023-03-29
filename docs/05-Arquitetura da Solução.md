@@ -4,28 +4,22 @@
 
 Definição de como o software é estruturado em termos dos componentes que fazem parte da solução e do ambiente de hospedagem da aplicação.
 
-[Arquitetura da Solução](img/02-mob-arch.png)
+![Arquitetura da Solução](img/02-mob-arch.png)
 
 ## Diagrama de Classes
 
-O diagrama de classes ilustra graficamente como será a estrutura do software, e como cada uma das classes da sua estrutura estarão interligadas. Essas classes servem de modelo para materializar os objetos que executarão na memória.
+O diagrama de classes nos mostra os atributos de cada classe e como as classes se relacionam, trazendo clareza para a implementação do projeto, com o intuito de facilitar a sua execução e reduzir possíveis dificuldades. 
 
 ![Diagrama de classes](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/blob/main/docs/img/Diagrama%20de%20classe.jpg)
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Classes”.
 
-> - [Diagramas de Classes - Documentação da IBM](https://www.ibm.com/docs/pt-br/rational-soft-arch/9.6.1?topic=diagrams-class)
-> - [O que é um diagrama de classe UML? | Lucidchart](https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-classe-uml)
 
 ## Modelo ER
 
-O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.]
+O modelo ER nos mostra como será o relacionamento entre todas as tabelas do banco de dados e sua relação de dependência entre elas, explicitando como deve funcionar esses relacionamentos e como eles devem conversar entre sí. 
 
-[Diagrama ER.jpg](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/blob/main/docs/img/Diagrama%20ER.jpg)
+![Diagrama ER.jpg](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/blob/main/docs/img/Diagrama%20ER.jpg)
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Modelo ER”.
-
-> - [Como fazer um diagrama entidade relacionamento | Lucidchart](https://www.lucidchart.com/pages/pt/como-fazer-um-diagrama-entidade-relacionamento)
 
 ## Esquema Relacional
 
