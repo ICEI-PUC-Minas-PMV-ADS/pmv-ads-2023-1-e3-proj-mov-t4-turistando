@@ -134,7 +134,7 @@ A imagem abaixo traz as atividades a serem realizadas por cada agente do projeto
 
 Organograma da equipe de desenvolvimento
 
-![image](https://user-images.githubusercontent.com/103782980/222983453-5be73417-12ca-4e91-ae0b-76e5c83e42a2.png)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/blob/main/docs/img/Organograma.png)
 
 
 ## Gestão de Orçamento
