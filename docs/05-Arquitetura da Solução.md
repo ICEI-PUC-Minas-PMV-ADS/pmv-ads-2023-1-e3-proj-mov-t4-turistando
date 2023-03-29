@@ -4,13 +4,13 @@
 
 Definição de como o software é estruturado em termos dos componentes que fazem parte da solução e do ambiente de hospedagem da aplicação.
 
-![Arquitetura da Solução](img/02-mob-arch.png)
+[Arquitetura da Solução](img/02-mob-arch.png)
 
 ## Diagrama de Classes
 
 O diagrama de classes ilustra graficamente como será a estrutura do software, e como cada uma das classes da sua estrutura estarão interligadas. Essas classes servem de modelo para materializar os objetos que executarão na memória.
 
-![Diagrama de classes](img/Diagrama de classe.jpg)
+![Diagrama de classes](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/blob/main/docs/img/Diagrama%20de%20classe.jpg)
 
 As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Classes”.
 
@@ -21,7 +21,7 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de
 
 O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.]
 
-![Diagrama ER](Diagrama ER.jpg)
+[Diagrama ER.jpg](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/blob/main/docs/img/Diagrama%20ER.jpg)
 
 As referências abaixo irão auxiliá-lo na geração do artefato “Modelo ER”.
 
