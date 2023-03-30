@@ -29,8 +29,112 @@ O Esquema Relacional corresponde á todas as tabelas que serão criadas no banco
 ![Esquema relacional.jpg](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/blob/main/docs/img/Diagrama%20ER%20de%20banco%20de%20dados%20(p%C3%A9%20de%20galinha).jpeg)
 
 ## Modelo Físico
+Create table usuarios 
 
-Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do banco de dados. Este arquivo deverá ser incluído dentro da pasta src\bd.
+( 
+
+Id int AUTO_INCREMENT PRIMARY key, 
+
+Nome varchar(40), 
+
+Login varchar(40), 
+
+DataCriacao date, 
+
+Senha varchar(32), 
+
+Tipo char (1) 
+
+); 
+
+Create table administrador 
+
+( 
+
+Id int AUTO_INCREMENT PRIMARY key, 
+
+Nome varchar(40), 
+
+Login varchar(40), 
+
+DataCriacao date, 
+
+Senha varchar(32), 
+
+Tipo char (1) 
+
+); 
+
+Create table anunciantes 
+
+( 
+
+Id int AUTO_INCREMENT PRIMARY key, 
+
+Nome varchar(40), 
+
+Login varchar(40), 
+
+DataCriacao date, 
+
+Senha varchar(32), 
+
+Tipo char (1) 
+
+); 
+
+Create table cidades 
+
+( 
+
+IdCidade int  AUTO_INCREMENT PRIMARY key, 
+
+Nome varchar(40), 
+
+Localizacao varchar(40), 
+
+Descricao varchar(40) 
+
+); 
+
+Create table Pontos_turisticos 
+
+( 
+
+Nome varchar(40) PRIMARY key, 
+
+Localizacao varchar(40), 
+
+Descricao varchar(40), 
+
+Informacoes varchar(40), 
+
+Fk_id_cidade int, 
+
+FOREIGN key(fk_id_cidade) REFERENCIES cidades(id) 
+
+); 
+
+Create table anuncio 
+
+( 
+
+Nome varchar(40) PRIMARY key, 
+
+localizacao varchar(40), 
+
+Descricao varchar(40), 
+
+valor varchar(40), 
+
+Fk_id_cidade int, 
+
+FOREIGN key(fk_id_cidade) REFERENCIES cidades(id), 
+
+Fk_id_anunciante int, 
+
+FOREIGN key(fk_id_anunciante) REFERENCIES anunciantes(id) 
+); 
 
 ## Tecnologias Utilizadas
 
