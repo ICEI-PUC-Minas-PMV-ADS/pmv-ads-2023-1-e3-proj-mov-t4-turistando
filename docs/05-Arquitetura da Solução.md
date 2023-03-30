@@ -18,16 +18,15 @@ O diagrama de classes nos mostra os atributos de cada classe e como as classes s
 
 O modelo ER nos mostra como será o relacionamento entre todas as tabelas do banco de dados e sua relação de dependência entre elas, explicitando como deve funcionar esses relacionamentos e como eles devem conversar entre sí. 
 
-![Diagrama ER.jpg](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/blob/main/docs/img/Diagrama%20ER.jpg)
+![Diagrama ER.jpg](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/blob/main/docs/img/diagrama%20er.jpeg)
 
 
 ## Esquema Relacional
 
-O Esquema Relacional corresponde à representação dos dados em tabelas juntamente com as restrições de integridade e chave primária.
- 
-As referências abaixo irão auxiliá-lo na geração do artefato “Esquema Relacional”.
+O Esquema Relacional corresponde á todas as tabelas que serão criadas no banco de dados e quais são as suas chaves primarias e suas chaves estrangeiras.
 
-> - [Criando um modelo relacional - Documentação da IBM](https://www.ibm.com/docs/pt-br/cognos-analytics/10.2.2?topic=designer-creating-relational-model)
+
+![Esquema relacional.jpg](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/blob/main/docs/img/Diagrama%20ER%20de%20banco%20de%20dados%20(p%C3%A9%20de%20galinha).jpeg)
 
 ## Modelo Físico
 
