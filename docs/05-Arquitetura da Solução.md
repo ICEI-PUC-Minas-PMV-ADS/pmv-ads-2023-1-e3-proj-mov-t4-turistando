@@ -138,9 +138,7 @@ FOREIGN key(fk_id_anunciante) REFERENCIES anunciantes(id)
 
 ## Tecnologias Utilizadas
 
-Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-
-Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
+Para a para solução do problema serão utilizados o React Native para o desenvolvimento do aplicativo. Sera utilizado javascript, e como framework utilizaremos a NodeJs. Utilizaremos o Visual Code como IDE de desenvolvimento, e como Sistema Gerenciador de Banco de Dados (SGBD) utilizaremos o MySQL. Durante o desenvolvimento serão priorizadas o uso de ferramentas alternativas gratuitas de tecnologia, dentre elas: Trello, Mysql, Visual Code e Figma, como especificado anteriormente na metodologia.
 
 ## Hospedagem
 
