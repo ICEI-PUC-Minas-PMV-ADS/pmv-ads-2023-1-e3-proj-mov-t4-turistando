@@ -162,3 +162,50 @@ Com base nessas características e nas respectivas sub-características, identif
 > - [ISO/IEC 25010:2011 - Systems and software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — System and software quality models](https://www.iso.org/standard/35733.html/)
 > - [Análise sobre a ISO 9126 – NBR 13596](https://www.tiespecialistas.com.br/analise-sobre-iso-9126-nbr-13596/)
 > - [Qualidade de Software - Engenharia de Software 29](https://www.devmedia.com.br/qualidade-de-software-engenharia-de-software-29/18209/)
+
+
+
+<ul dir="auto">
+<li>Adequação Funcional
+<ul dir="auto">
+<li>Completude funcional</li>
+<li>Correção funcional</li>
+</ul>
+</li>
+<li>Eficiência/Performance
+<ul dir="auto">
+<li>Utilização de recursos</li>
+</ul>
+</li>
+<li>Usabilidade
+<ul dir="auto">
+<li>Operabilidade</li>
+<li>Proteção contra erro do usuário</li>
+<li>Estética de interface</li>
+</ul>
+</li>
+<li>Confiabilidade
+<ul dir="auto">
+<li>Maturidade</li>
+<li>Tolerância a falhas</li>
+</ul>
+</li>
+<li>Segurança
+<ul dir="auto">
+<li>Confidencialidade</li>
+<li>Integridade</li>
+</ul>
+</li>
+<li>Manutenibilidade
+<ul dir="auto">
+<li>Modularidade</li>
+<li>Reusabilidade</li>
+<li>Modificabilidade</li>
+</ul>
+</li>
+<li>Portabilidade
+<ul dir="auto">
+<li>Adaptabilidade</li>
+</ul>
+</li>
+</ul>
