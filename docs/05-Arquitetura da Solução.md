@@ -165,47 +165,26 @@ Com base nessas características e nas respectivas sub-características, identif
 
 
 
-<ul dir="auto">
-<li>Adequação Funcional
-<ul dir="auto">
-<li>Completude funcional</li>
-<li>Correção funcional</li>
-</ul>
-</li>
-<li>Eficiência/Performance
-<ul dir="auto">
-<li>Utilização de recursos</li>
-</ul>
-</li>
-<li>Usabilidade
-<ul dir="auto">
-<li>Operabilidade</li>
-<li>Proteção contra erro do usuário</li>
-<li>Estética de interface</li>
-</ul>
-</li>
-<li>Confiabilidade
-<ul dir="auto">
-<li>Maturidade</li>
-<li>Tolerância a falhas</li>
-</ul>
-</li>
-<li>Segurança
-<ul dir="auto">
-<li>Confidencialidade</li>
-<li>Integridade</li>
-</ul>
-</li>
-<li>Manutenibilidade
-<ul dir="auto">
-<li>Modularidade</li>
-<li>Reusabilidade</li>
-<li>Modificabilidade</li>
-</ul>
-</li>
-<li>Portabilidade
-<ul dir="auto">
-<li>Adaptabilidade</li>
-</ul>
-</li>
-</ul>
+1- **Funcionalidade**  
+ - *Adequação* : Avalia se o software propõe-se a fazer o que é apropriado. Essa métrica será avaliada através da entrega dos requisitos funcionais propostos.
+ - *Segurança de acesso* : Avalia se é possível o acesso não autorizado a dados. Essa métrica será avaliada através da implementação da autenticação.
+
+2- **Confiabilidade**  
+ - *Tolerância a falhas*: Avalia qual a reação decorrente de falhas. Essa métrica será avaliada através dos testes de usabilidade.  
+ - *Recuperabilidade*: Avalia se é possível recuperar dados após uma falha. Essa métrica será avaliada através de monitoramento de uso do app.  
+
+3- **Usabilidade**  
+ - *Apreensibilidade*: Avalia se é fácil aprender a usar. Essa métrica será avaliada através de testes de usabilidade.  
+ - *Operacionalidade*: Avalia se é fácil de operar e controlar a operação. Essa métrica será avaliada através de testes de usabilidade. 
+
+4- **Eficiência**  
+- *Comportamento em relação ao tempo*: Avalia o tempo de resposta e de processamento. Essa métrica será avaliada através de testes de usabilidade. 
+- *Comportamento em relação aos recursos*: Avalia quanto recurso utiliza. Essa métrica será avaliada através de testes de usabilidade. 
+    
+5- **Manutenibilidade**  
+- *Modificabilidade*: Avalia se fácil modificar e remover defeitos. Essa métrica será avaliada através da implementação de novas funcionalidades no decorrer do projeto.
+- *Testabilidade*: Avalia se fácil testar quando se faz alterações. Essa métrica será avaliada durante o desenvolvimento através de testes das novas implementações.
+
+6- **Portabilidade**  
+- *Capacidade para ser instalado*: Avalia se é fácil instalar em outros ambientes. Essa métrica será avaliada após hospedagem em lojas para apps.
+- *Capacidade para substituir*: Avalia se está de acordo com padrões ou convenções de portabilidade. Essa métrica será avaliada após investigação de outros apps que possuam funcionalidades semelhantes.
