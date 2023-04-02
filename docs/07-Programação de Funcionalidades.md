@@ -9,7 +9,5 @@ A tela principal do sistema apresentará uma página de login com usuário e sen
 Requisitos atendidos
 
 •	RF-01
-
 •	RF-02
-
 •	RF-03
