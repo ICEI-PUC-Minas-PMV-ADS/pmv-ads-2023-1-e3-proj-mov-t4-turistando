@@ -123,3 +123,14 @@ E dará uma nota de 0 a 5 para o quanto ele achou intuitivo o uso do mesmo, send
 O aplicativo será aprovado caso tenha ocorrido 0 ou 1 travamento, 0 0 1 ocorrência de dificuldade ao realizar uma tarefa, e a média da nota atribuída à intuitividade seja igual ou maior que 4.|
 |Resultado:|Aplicação com funcionamento fluído sem travamentos ou bugs durante a utilização.|
 |Observação: ||
+
+# MÉTRICAS DE DESEMPENHO (APP TURISTANDO)
+
+As métricas que norteiam a viabilidade da implementação do aplicativo em um ambiente de negócio, estão detalhadas a seguir através do painel gráfico a seguir. 
+
+1.	Número de usuários cadastrados 
+2.	Número de anunciantes cadastrados
+3.	Conversão em vendas
+4.	Faturamento
+5.	Breakeven
+
