@@ -69,5 +69,6 @@ As ferramentas empregadas no projeto são:
 - Ferramentas de desenho de tela Canva
 - Microsoft Teams
 - Google Drive
+- Fab App
 
 
