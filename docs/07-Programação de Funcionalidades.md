@@ -1,15 +1,10 @@
 # Programação de Funcionalidades
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="5-Arquitetura da Solução.md"> Arquitetura da Solução</a>
-
-Implementação do sistema descritas por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos os artefatos criados (código fonte) além das estruturas de dados utilizadas e as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.
-
-Para cada requisito funcional, pode ser entregue um artefato desse tipo
-
-> **Links Úteis**:
->
-> - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
-> - [JSON Tutorial](https://www.w3resource.com/JSON)
-> - [JSON Data Set Sample](https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html)
-> - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
-> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
+Nesta seção serão expostas as telas destinadas a cada uma das funcionalidades do sistema.
+Visualização das áreas de turismo (RF-01, RF-02, RF-03)
+A tela principal do sistema apresentará uma página de login com usuário e senha para que o turista se identifique antes de obter acesso aos melhores lugares de turismo, após seu acesso é mostrado para ele os pontos de visitas e informações importantes dentro da plataforma. A plataforma informa os lugares, utilidade pública, calendário de eventos entre outros. Um exemplo da tela é apresentado na Figura 6.1
+![image](https://user-images.githubusercontent.com/102244252/229382136-ae43f4de-821c-49de-baa4-cfaa860645bb.png)
+Requisitos atendidos
+•	RF-01
+•	RF-02
+•	RF-03
