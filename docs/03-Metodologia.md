@@ -11,7 +11,7 @@ Para que tenhamos uma boa produtividade no desenvolvimento do nosso software ire
 |------|-----------------------------------------|----|
 |Repositório de código fonte| GitHub | [Github](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando)|
 |Documentos do  projeto| Google Drive |Google Drive |
-|Projeto de Interface e Wireframes | Canva ||
+|Projeto de Interface e Wireframes | Canva | [FabApp](https://studio.fabricadeaplicativos.com.br/painel/signin) |
 |Gerenciamento do Projeto | Github e Microsoft Teams |
 |Editor de Código | VSCode | Instalado na máquina local |
 
