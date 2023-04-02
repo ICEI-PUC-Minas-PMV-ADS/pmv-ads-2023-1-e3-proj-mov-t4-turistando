@@ -64,48 +64,6 @@ Figura 2 – Processo 2: Modelo de negócio do projeto dentro da empresa de dese
 
 ![Processo 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/blob/0f21778706fb534b78dbc9ced429aaf4b2b83816/docs/img/Processo2.png)
 
-## Indicadores de Desempenho
-
-Algumas métricas a serem atendidas pelo negócio são apresentadas a seguir.
-Através das metas pré estipuladas pode-se direcionar a equipe de desenvolvimento e manutenção do sistema onde os esforços devem ser aplicados de forma a garantir que a empresa sempre entregue valor ao cliente e seja lucrativa.
-A primeira métrica é a quantidade de anunciantes cadastrados. Esses cadastros podem ser feitos inclusive durante o desenvolvimento do software. A partir dos wireframes e modelo de negócio da empresa, os potenciais parceiros já podem ser contactados, oferecendo preços especiais para aqueles que se fidelizarem como anunciantes antes mesmo de o software estar pronto. Dessa forma, a empresa já começa a ter faturamento reduzindo o período de payback.
-
-Figura 3 – Anunciantes Cadastrados na plataforma: Esperado e medido nos primeiros 3 anos 
-
-![anunciantes](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/blob/295438a183741df1b6f3dabcc84c91daf1334e7f/docs/img/Anunciantes%20cadastrados.png)
-
-O período de payback esperado é 5 anos (10 semestres). Ou seja, no final desse período é esperado que os custos de criação do sistema já tenham sido pagos com os faturamentos que entram na empresa. 
-
-Figura 4 – Breakeven: Esperado e medido nos primeiros 3 anos 
-
-![breakeven](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/blob/295438a183741df1b6f3dabcc84c91daf1334e7f/docs/img/Breakeven.png)
-
-O faturamento já é esperado desde o primeiro semestre de funcionamento do software. Os rendimentos são provenientes dos anúncios que são colocados por prefeituras (eventos) e empresários (hospedagens, passeios, etc).
-
-Figura 5 – Faturamento: Esperado e medido nos primeiros 3 anos 
-
-![faturamento](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/blob/295438a183741df1b6f3dabcc84c91daf1334e7f/docs/img/Faturamento.png)
-
-A conversão em vendas é uma forma de medir quantas vendas são executadas por cliente que faz o login no aplicativo. Dessa forma é possível ver sazonalidades, quais tipos de hospedagens e eventos são mais procurados em cada época do ano, e com isso melhorar o algoritmo com o tempo. Fornecendo ao visitante aquelas atrações que tem maior conversão em vendas.
-
-Figura 6 – Conversão em vendas: Dados mensais 
-
-![conversão em vendas](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/blob/295438a183741df1b6f3dabcc84c91daf1334e7f/docs/img/Convers%C3%A3o%20em%20vendas.png)
-
-O número de usuários cadastrados é uma métrica que auxilia a entender como está sendo o recebimento / adesão do aplicativo pelos usuários.
-
-Figura 7 – Usuários cadastrados: Esperado e medido nos primeiros 3 anos 
-
-![usuários cadastrados](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/blob/295438a183741df1b6f3dabcc84c91daf1334e7f/docs/img/Usu%C3%A1rios%20cadastrados.png)
-
-Por fim, uma métrica destinada a realização do projeto em si.
-Essa métrica, tal como é exibida abaixo, segue uma metodologia de desenvolvimento bem linear. Aplicando metodologia ágil as porcentagens concluídas podem ser revistas ao final de cada sprint. É portanto, um gráfico mais dinâmico.
-
-Figura 8 – Andamento do desenvolvimento
-
-![Andamento do projeto](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/blob/866b9e6da7634fb4c8d3a2fff9755ff3a0465795/docs/Andamento%20do%20projeto.png)
-
-
 ## Requisitos
 
 Visando listar as funcionalidades para a elaboração da plataforma Turistando, foram explicitados os requisitos referentes ao desenvolvimento do software na tabela abaixo. 
