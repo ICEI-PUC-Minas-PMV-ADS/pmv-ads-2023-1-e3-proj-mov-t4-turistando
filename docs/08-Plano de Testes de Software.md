@@ -134,3 +134,5 @@ As métricas que norteiam a viabilidade da implementação do aplicativo em um a
 4.	Faturamento
 5.	Breakeven
 
+![image](https://user-images.githubusercontent.com/102244252/229382268-8d45aac6-8518-4945-a0d4-c73d40ce9234.png)
+
