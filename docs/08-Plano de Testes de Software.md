@@ -124,6 +124,14 @@ O aplicativo será aprovado caso tenha ocorrido 0 ou 1 travamento, 0 0 1 ocorrê
 |Resultado:|Aplicação com funcionamento fluído sem travamentos ou bugs durante a utilização.|
 |Observação: ||
 
+|Caso de Teste|CT-016|
+|-|-|
+|Requisitos que motivaram o teste:|**RF-002:** O app fornecerá a funcionalidade para autenticação do usuário. |
+|Objetivo do teste:| Certificar que a autenticação do usuário poderá ser mudada caso ele queira.|
+|Condição para aprovado:| Um usuário cadastrado conseguirá alterar seu e-mail, senha, telefone, e demais dados pessoais para login.|
+|Resultado:| Alteração feita e login com novos dados realizados.|
+|Observação: ||	
+
 # MÉTRICAS DE DESEMPENHO (APP TURISTANDO)
 
 As métricas que norteiam a viabilidade da implementação do aplicativo em um ambiente de negócio, estão detalhadas a seguir através do painel gráfico a seguir. 
