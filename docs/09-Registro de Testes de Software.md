@@ -12,7 +12,7 @@ Os planos de testes realizados, agrupam as seguintes funcionalidades do sistema:
 
 Abaixo, estão ilustrados os testes de forma individual:
 
-Plano de Teste 01 
+- Plano de Teste 01 
 
 O plano de teste 01, mostra o CT-001 (cadastro). Abaixo, é possível visualizar a página de cadastro da plataforma Turistando, local destinado à inserção de dados e credenciais do usuário no Banco de dados do sistema. 
 
@@ -22,14 +22,24 @@ O plano de teste 01, mostra o CT-001 (cadastro). Abaixo, é possível visualizar
 
 (Tela de Cadastro de Informações do Usuário) 
 
-Plano de Teste 02 
+- Plano de Teste 02 
 
 O plano de teste 02, mostra o CT-002 (autenticação). Abaixo, a imagem ilustra a página inicial de login e senha, assim como a liberação do sistema após inserção de credenciais de acesso fornecidas pelo usuário.  
 
 ![image](https://user-images.githubusercontent.com/102244252/236699637-84ea0219-3028-41b0-a5dc-b31c6bbd3bc6.png)
 ![image](https://user-images.githubusercontent.com/102244252/236699648-18deab23-1b98-4281-a2d3-16068fc847cc.png)
 
- (Página de Login e Senha) 
+(Página de Login e Senha) 
+
+- Plano de Teste 03 
+
+O Plano de Teste 03, demonstra o CT-016. Nesta página, é possível realizar a alteração e atualização de dados do usuário. As imagens explicitam os dados inicialmente inseridos no sistema, assim como a alteração e atualização de dados inseridos pelo usuário. As novas informações são atualizadas no banco de dados do sistema. 
+
+![image](https://user-images.githubusercontent.com/102244252/236699713-f7d4fbee-285f-449e-a438-13929b7f8163.png)
+![image](https://user-images.githubusercontent.com/102244252/236699724-7635b401-338c-4fc4-8ab8-ae8c95dd7199.png)
+![image](https://user-images.githubusercontent.com/102244252/236699734-ee517d13-7feb-499c-852c-24c0865294a3.png)
+
+(Alteração de Dados do Usuário) 
 
 
 
