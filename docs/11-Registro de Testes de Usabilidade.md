@@ -1,5 +1,7 @@
 # Registro de Testes de Usabilidade
 
+O teste de usabilidade foi elaborado utilizando a plataforma online Maze (maze.co), seguindo a sequência de perguntas detalhadas na unidade 8 - item 3, referentes às etapas para avaliação da experiência do usuário. 
+
 O teste foi feito na plataforma Maze (maze.co) e segue uma sequência de etapas para avaliar a experiência do usuário: 
 
 1. Pergunta: Você aceita participar deste teste de usabilidade? Ele tem como objetivo testar a eficiência de uma aplicação, chamada Turistando, que auxilia pessoas com objetivo de viajar. 
