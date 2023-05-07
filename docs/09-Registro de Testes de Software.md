@@ -29,6 +29,8 @@ O plano de teste 02, mostra o CT-002 (autenticação). Abaixo, a imagem ilustra 
 ![image](https://user-images.githubusercontent.com/102244252/236699637-84ea0219-3028-41b0-a5dc-b31c6bbd3bc6.png)
 ![image](https://user-images.githubusercontent.com/102244252/236699648-18deab23-1b98-4281-a2d3-16068fc847cc.png)
 
+ (Página de Login e Senha) 
+
 
 
 
