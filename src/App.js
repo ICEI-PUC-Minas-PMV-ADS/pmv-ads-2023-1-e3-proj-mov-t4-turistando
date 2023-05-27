@@ -1,16 +1,19 @@
 import React, { useState } from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 
-import Route from './src/navigation/route';
-import UserProvider from './src/contexts/UserContext';
+import Route from './navigation/route';
+import UserProvider from './contexts/UserContext';
+import Lojas from './pages/lojas';
 
 const App = () => {
   return (
-    <UserProvider>
-      <NavigationContainer>
-        <Route />
-      </NavigationContainer>
-    </UserProvider>
+<Lojas> </Lojas>
+
+    //<UserProvider>
+      //<NavigationContainer>
+        //<Route />
+      //</NavigationContainer>
+    //</UserProvider>
   );
 };
 
