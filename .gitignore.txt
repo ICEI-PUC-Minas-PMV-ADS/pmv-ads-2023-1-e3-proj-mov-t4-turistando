@@ -8,7 +8,13 @@ bare-apps
 .DS_Store
 
 # Node
+src/node_modules
+src/node_modules/
+<<<<<<< HEAD
 node_modules/
+=======
+node_modules
+>>>>>>> 9e5caf8e5aaeb331de6d91992f1cfad7c1113cda
 npm-debug.log
 yarn-error.log
 
