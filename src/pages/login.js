@@ -1,12 +1,12 @@
 import React, { useState } from 'react';
 import {StyleSheet, View, Alert} from 'react-native';
-import {TextInput, Button, Headline} from 'react-native-paper';
+import { TextInput, Button } from 'react-native-paper';
 import { useNavigation } from '@react-navigation/native';
 
 import Container from '../components/container';
 import Body from '../components/body';
 import Input from '../components/input';
-import Logo from '../components/logo';
+import Cabecalho from '../components/cabecalho';
 import { useUser } from '../contexts/UserContext';
 import { login } from '../services/auth.services';
 
@@ -44,13 +44,11 @@ const Login = () => {
   return (
     <Container>
 
-      <View style = {styles.header}>
+      <Cabecalho title = { 'Login' }/>
 
-      <Logo />
+      <View style = {styles.header}>
     
       </View>
-
-      <Headline style = {styles.textHeader}> Turistando </Headline>
 
       <Body>
 
@@ -58,7 +56,7 @@ const Login = () => {
           label="Email"
           value={email}
           onChangeText={text => setEmail(text)}
-          left = {<TextInput.Icon name = "account" color = "#4a7b8c"/>}
+          left = {<TextInput.Icon name = "account" color = "black"/>}
         />
 
         <Input
@@ -66,12 +64,12 @@ const Login = () => {
           value={password}
           secureTextEntry
           onChangeText={text => setPassoword(text)}
-          left = {<TextInput.Icon name = "onepassword" color = "#4a7b8c"/>}
+          left = {<TextInput.Icon name = "onepassword" color = "black"/>}
         />
 
           <Button 
             style = {styles.button}
-            color="#04334c"
+            color="#cbf5c7"
             mode = "contained" 
             onPress = {handleLogin}>
             Login
@@ -80,7 +78,7 @@ const Login = () => {
           <Button 
             style = {styles.button}
             mode = "contained"
-            color="#b7dae1" 
+            color="#cbf5c7" 
             onPress = {() => navigation.navigate ('Register')}>
             Registrar
           </Button>

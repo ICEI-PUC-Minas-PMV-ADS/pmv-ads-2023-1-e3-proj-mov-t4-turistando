@@ -1,97 +1,25 @@
 import * as React from 'react';
-import { View, StyleSheet, ScrollView } from 'react-native';
-import { Avatar, Button, Card, Text } from 'react-native-paper';
-import { useNavigation } from '@react-navigation/native';
+import { StyleSheet } from 'react-native';
+import { Card } from 'react-native-paper';
 
 
 const Cards = () => (
-    
 
-  <ScrollView style={styles.espacamento}>
-    <Card onPress={() => {}} style={styles.card}>
-      <Card.Title
-        title="Pontos Turisticos"
-        left={(props) => (
-          <Avatar.Icon
-            color="white"
-            style={styles.cardAvatar}
-            {...props}
-            icon="airballoon-outline"
-          />
-        )}
-      />
-    </Card>
-    <Card onPress={() => {}} style={styles.card}>
-      <Card.Title
-        title="Onde Dormir"
-        left={(props) => (
-          <Avatar.Icon
-            color="white"
-            style={styles.cardAvatar}
-            {...props}
-            icon="bed-outline"
-          />
-        )}
-      />
-    </Card>
-    <Card onPress={() => {}} style={styles.card}>
-      <Card.Title
-        title="Onde Comer"
-        left={(props) => (
-          <Avatar.Icon
-            color="white"
-            style={styles.cardAvatar}
-            {...props}
-            icon="silverware-fork-knife"
-          />
-        )}
-      />
-    </Card>
-    <Card onPress={() => {}} style={styles.card}>
-      <Card.Title
-        title="Lojas"
-        left={(props) => (
-          <Avatar.Icon
-            color="white"
-            style={styles.cardAvatar}
-            {...props}
-            icon="shopping-outline"
-          />
-        )}
-      />
-    </Card>
-    <Card onPress={() => {}} style={styles.card}>
-      <Card.Title
-        title="Serviços Publicos"
-        left={(props) => (
-          <Avatar.Icon
-            {...props}
-            color="white"
-            style={styles.cardAvatar}
-            icon="account-search-outline"
-          />
-        )}
-      />
-    </Card>
-    
-    
-  </ScrollView>
+<Card>
+      <Card.Cover style={styles.img} source={{ uri: 'https://snack-code-uploads.s3.us-west-1.amazonaws.com/~asset/fbc0ce297522e2de5ad04cddbd3f9f7a' }}/>
+</Card>
+
 );
 
+
+
 const styles = StyleSheet.create({
-  espacamento: {
-    flex: 1,
-    marginTop: 10,
+  img: {
+    width: 400,
+    heigth: 300,
   },
 
-  card: {
-    backgroundColor: '#6CBECD',
-    margin: 10,
-    font: 'bold',
-  },
-  cardAvatar: {
-    backgroundColor: '#387287',
-  },
 });
+
 
 export default Cards;

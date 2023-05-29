@@ -8,7 +8,7 @@ import { useNavigation, useIsFocused } from '@react-navigation/native';
 import Container from '../components/container';
 import { getUser } from '../services/user.account.services';
 
-const App = () => {
+const Painel = () => {
   const navigation = useNavigation();
   const isFocused = useIsFocused();
   const [user, setUser] = useState([]);
@@ -51,4 +51,4 @@ const styles = StyleSheet.create({
   },
 });
 
-export default App;
+export default Painel;

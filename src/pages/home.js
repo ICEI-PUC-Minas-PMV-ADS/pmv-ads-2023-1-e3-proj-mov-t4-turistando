@@ -3,7 +3,7 @@ import { Appbar } from 'react-native-paper';
 import { useNavigation } from '@react-navigation/native';
 
 import Container from '../components/container';
-import Cards from '../components/cards';
+import Cards from '../components/cardsHome';
 import Banner from '../components/banner';
 
 

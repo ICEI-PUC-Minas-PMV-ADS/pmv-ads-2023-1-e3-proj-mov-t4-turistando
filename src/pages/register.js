@@ -1,12 +1,12 @@
 import React, { useState } from 'react';
-import {StyleSheet, View, Alert} from 'react-native';
-import {TextInput, Button, Headline} from 'react-native-paper';
+import { StyleSheet, View, Alert } from 'react-native';
+import { TextInput, Button } from 'react-native-paper';
 import { useNavigation } from '@react-navigation/native'
 
 import Container from '../components/container';
 import Body from '../components/body';
 import Input from '../components/input';
-import Logo from '../components/logo';
+import Cabecalho from '../components/cabecalho';
 import { register } from '../services/auth.services';
 
 const Register = () => {
@@ -47,15 +47,14 @@ const Register = () => {
   }
 
   return (
+
     <Container>
+
+      <Cabecalho title = { 'Cadastrar' }/>
 
       <View style = {styles.header}>
 
-      <Logo />
-    
       </View>
-
-      <Headline style = {styles.textHeader}> Turistando </Headline>
 
       <Body>
 
@@ -63,14 +62,14 @@ const Register = () => {
           label="Nome"
           value={name}
           onChangeText={text => setName(text)}
-          left = {<TextInput.Icon name = "account" color = "#4a7b8c"/>}
+          left = {<TextInput.Icon name = "account" color = "black"/>}
         />
 
         <Input
           label="Email"
           value={email}
           onChangeText={text => setEmail(text)}
-          left = {<TextInput.Icon name = "email" color = "#4a7b8c"/>}
+          left = {<TextInput.Icon name = "email" color = "black"/>}
         />
 
         <Input
@@ -78,20 +77,20 @@ const Register = () => {
           value={password}
           secureTextEntry
           onChangeText={text => setPassoword(text)}
-          left = {<TextInput.Icon name = "onepassword" color = "#4a7b8c"/>}
+          left = {<TextInput.Icon name = "onepassword" color = "black"/>}
         />
 
         <Input
           label="Número Telefone"
           value={phone}
           onChangeText={text => setPhone(text)}
-          left = {<TextInput.Icon name = "card-account-phone" color = "#4a7b8c"/>}
+          left = {<TextInput.Icon name = "card-account-phone" color = "black"/>}
         />
 
           <Button 
             style = {styles.button}
             mode = "contained"
-            color="#04334c" 
+            color="#cbf5c7" 
             onPress = {handleRegister}>
             Registrar
           </Button>
@@ -99,7 +98,7 @@ const Register = () => {
           <Button 
             style = {styles.button}
             mode = "contained"
-            color="#b7dae1"  
+            color="#cbf5c7"  
             onPress = {() => navigation.goBack ()}>
             Cancelar
           </Button>
