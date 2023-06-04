@@ -75,12 +75,12 @@ Visando listar as funcionalidades para a elaboração da plataforma Turistando, 
 |RF-001| A plataforma deve possuir uma página de login com usuário e senha.  | ALTA | 
 |RF-002| O app fornecerá a funcionalidade para autenticação do usuário.   | ALTA |
 |RF-003| O app deverá fornecer informações sobre os pontos turísticos da cidade.  | ALTA |
-|RF-004| O programa deve possibilitar o compartilhamento de localidades por redes sociais.   | MÉDIA |
-|RF-005| O app deve apresentar, para cada anúncio, informações como um breve descritivo, título, imagem, dados de contato e valor (aproximadamente). | ALTA |
-|RF-006|  A plataforma deve oferecer um campo nos anúncios para texto alternativo (alt texts) onde serão descritas as imagens dos anúncios e pontos turísticos com detalhes. (Recurso de acessibilidade). | ALTA |
+|RF-004| O sistema deve possibilitar a exibição das redes sociais dos estabelecimentos cadastrados na plataforma.. | MÉDIA |
+|RF-005| O app deve apresentar, para cada anúncio, informações como um breve descritivo, título, imagem e dados para contato.| ALTA |
+|RF-006| A plataforma deverá ser construída utilizando cores que facilitem a visualização de elementos por pessoas com dislexia, visando oferecer recursos de acessibilidade. | ALTA |
 |RF-007| Apresentar hospedagens próximas a cidade e/ou região desejada. | MÉDIA |
-|RF-008| Ter a opção de selecionar como favorito lugares e hospedagens.  | BAIXA |
-|RF-009| Opção de avaliar os pontos turísticos e hospedagens.  | BAIXA |
+|RF-008| Ter a opção de selecionar e visualizar informações detalhadas sobre os locais e estabelecimentos de interesse. | BAIXA |
+|RF-009| Opção de visualizar informações como endereços e telefones da instituição pública selecionada.   | BAIXA |
 |RF-010| Apresentar uma aba de pesquisa onde o usuário poderá verificar os pontos turísticos da cidade e/ou região desejada.  | MÉDIA |
 
 ### Requisitos Não Funcionais
@@ -91,7 +91,7 @@ Visando listar as funcionalidades para a elaboração da plataforma Turistando, 
 |RNF-003| O app deve ter bom nível de contraste entre os elementos da tela em conformidade.   | ALTA | 
 |RNF-004| O aplicativo terá manutenções programadas em horários com baixo número de usuários ativos.   | ALTA | 
 |RNF-005| O aplicativo deve ser publicado em um ambiente acessível publicamente na Internet via GitHub.   | ALTA | 
-|RNF-006| O aplicativo deve ser intuituvo e não apresentar travamentos| ALTA |
+|RNF-006| O aplicativo deve ser intuituvo e não apresentar travamentos.| ALTA |
 
 ## Restrições
 
