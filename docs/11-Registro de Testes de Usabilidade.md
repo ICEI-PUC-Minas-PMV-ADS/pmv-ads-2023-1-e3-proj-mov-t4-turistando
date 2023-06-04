@@ -40,3 +40,33 @@ O teste foi feito na plataforma Maze (maze.co) e segue uma sequência de etapas 
 
 O teste de usabilidade foi elaborado utilizando a plataforma online Google Forms, seguindo a sequência de perguntas referentes às etapas para obter a avaliação da experiência do usuário.
 
+Eixo 3: Desenvolvimento de uma aplicação móvel em um ambiente de negócio
+Turistando
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/102244252/a111177b-ecd3-47f8-a15e-525ec9de7ad1)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/102244252/914e178d-5c4b-4259-875c-469451c831bd)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/102244252/72bee3f3-d1a5-4e80-8392-c09409a25103)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/102244252/f4356928-37f0-4ffa-b050-7df5bc18a095)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/102244252/0c789e33-e653-4cb6-a937-106c3bd06aa4)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/102244252/6dcdc3c8-60ba-4213-ba32-fa1e4bd3c4ee)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/102244252/86d38f21-8292-48c7-a35f-a084d2073f08)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/102244252/ee7252c0-3650-46ad-9cf6-7b1be3c3a8b8)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/102244252/b84cdac0-88f3-4650-9fe3-65b285fc04ae)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/102244252/947f5005-13b5-41b8-9a2d-12140c360dd5)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/102244252/06705281-3b05-4f7f-8d1a-fc0fd18a961e)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/102244252/732b7883-9ebe-4d51-8a76-a2d60582836c)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/102244252/09a8ef16-8907-47a7-80ed-7fc8564bf9e8)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/102244252/17c2a560-a92b-441a-81a4-c3c9194437c8)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/102244252/8f792379-e3d3-4e83-baa0-59df270499d8)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/102244252/caf4a195-c318-436a-9080-272a39559363)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/102244252/68533ad1-e9b1-4a05-b930-f6f43c6cda1a)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/102244252/49428baf-8227-4bd2-bc7c-e6d39cc97859)
+
+13.1. Conclusão
+A partir da avaliação dos usuários foi possível concluir que a aplicação desenvolvida conseguiu alcançar a finalidade de suprir os requisitos básicos para seu funcionamento. As repostas-testes demonstraram que o software teve uma avalição positiva em todos seus aspectos, demonstrando ser intuitiva e de fácil uso. A navegabilidade, intuitividade, acesso as informações e identidade visual foram implementados de tal forma que possibilitaram o cliente a acessar os dados que ele almeja, tornando a aplicação viável para o uso. Ainda que haja possíveis melhorias ou aperfeiçoamentos a serem feitos, no computo geral, o software é eficiente e alcança os requisitos propostos a ela.
+
+
+
+
+
