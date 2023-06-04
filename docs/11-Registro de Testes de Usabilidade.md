@@ -35,3 +35,8 @@ O teste foi feito na plataforma Maze (maze.co) e segue uma sequência de etapas 
 6. Pergunta de escala: Quanto você recomendaria a plataforma para outros usuários que planejam uma viagem? 
 
 ![image](https://user-images.githubusercontent.com/102244252/236699980-91981003-16c5-4e90-adb5-f4469545808c.png)
+
+# Registro de Testes de Usabilidade (APP Turistando)
+
+O teste de usabilidade foi elaborado utilizando a plataforma online Google Forms, seguindo a sequência de perguntas referentes às etapas para obter a avaliação da experiência do usuário.
+
