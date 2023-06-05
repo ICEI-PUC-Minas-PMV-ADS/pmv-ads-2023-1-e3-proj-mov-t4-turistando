@@ -5,12 +5,12 @@
 |Requisitos que motivaram o teste: |**RNF-001:**  A plataforma deve possuir uma página de login com usuário e senha.
 |Objetivo do teste:| Averiguar funcionamento do cadastro ao popular banco de dados.|
 |Condição para aprovado: | Login e senha cadastrados no banco de dados a partir da página de login.|
-|Resultado:||
+|Resultado:| Login e senha de novo usuário inserido no banco de dados.|
 |Observação: ||	
 
 |Caso de Teste|CT-002|
 |-|-|
-|Requisitos que motivaram o teste:| **RNF-002:** O app fornecerá a funcionalidade para autenticação do usuário.|
+|Requisitos que motivaram o teste:| **RF-002:**  O app fornecerá a funcionalidade para autenticação do usuário|
 |Objetivo do teste:| Averiguar que pessoas autorizadas tenham acesso ao sistema.|
 |Condição para aprovado:|Inseridos usuário e senha, o login deve ser feito.|
 |Resultado:| Bloqueio/liberação do sistema após inserção de credenciais de acesso.|
@@ -42,18 +42,18 @@
 
 |Caso de Teste|CT-006|
 |-|-|
-|Requisitos que motivaram o teste:|**RNF-004:** O programa deve possibilitar o compartilhamento de localidades por redes sociais.|
+|Requisitos que motivaram o teste:|**RF-004:** O sistema deve possibilitar a exibição das redes sociais dos estabelecimentos cadastrados na plataforma.|
 |Objetivo do teste: | Averiguar se o compartilhamento em redes sociais funciona.|
-|Condição para aprovado:| Ao menos três usuários escolherão três pontos turísticos diferentes e farão as postagens em suas redes sociais: Facebook e Instagram. |
-|Resultado:|Compartilhamento da funcionalidade do aplicativo nas redes sociais|
+|Condição para aprovado:|As páginas de agendamentos devem ter todas as redes sociais, devem ser funcionais permitindo assim o agendamento do turista facilitando o contanto com a empresa.|
+|Resultado:|Todas as páginas devem ter contato para o agendamento do turista.|
 |Observação: ||	
 
 |Caso de Teste|CT-007|
 |-|-|
-|Requisitos que motivaram o teste:|**RNF-006:** : A plataforma deve oferecer um campo nos anúncios para texto alternativo (alt texts) onde serão descritas as imagens dos anúncios e pontos turísticos com detalhes. (Recurso de acessibilidade).|
-|Objetivo do teste: |Averiguar que o aplicativo é acessível a pessoas com necessidades especiais.|
-|Condição para aprovado:| Usar uma amostra de 3 imagens e ativar o recurso de acessibilidade (alt texts). Certificar-se que está funcionando.|
-|Resultado:|Funcionamento adequado da descrição dos elementos visuais da imagem no app.|
+|Requisitos que motivaram o teste:|**RF-006:** A plataforma deve ser construída utilizando cores que facilitem a visualização de elementos por pessoas com dislexia, visando oferecer recursos de acessibilidade.|
+|Objetivo do teste: | Averiguar se o aplicativo possui agradável visualização para pessoas com necessidades especiais.  |
+|Condição para aprovado:| Exibição das cores selecionadas em todo o layout da aplicação.  |
+|Resultado:|Exibição dos recursos visuais implementados em todo o layout do app.  |
 |Observação: ||	
 
 |Caso de Teste|CT-008|
