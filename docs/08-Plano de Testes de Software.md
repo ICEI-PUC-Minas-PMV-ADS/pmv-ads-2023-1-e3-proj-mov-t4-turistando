@@ -66,34 +66,36 @@
 
 |Caso de Teste|CT-009|
 |-|-|
-|Requisitos que motivaram o teste:|**RNF-008:** Ter a opção de selecionar como favorito lugares e hospedagens.|
-|Objetivo do teste:|Certificar-se que ao selecionar um lugar como favorito, essa informação fique salva para o usuário.|
-|Condição para aprovado:|3 usuários devem favoritar 3 pontos turísticos diferentes, sair do aplicativo, e ao realizar o login novamente esses pontos permanecem favoritados.|
-|Resultado:|Disponibilizar a opção de favoritar um local visitado.|
+|Requisitos que motivaram o teste:||**RF-008:** Ter a opção de selecionar e visualizar informações detalhadas sobre os locais e estabelecimentos de interesse. .|
+|Objetivo do teste:|Certificar o funcionamento do botão de redirecionamento para a página de descrição do local selecionado.|
+|Condição para aprovado:| Após clicar sobre o botão “saiba mais”, o usuário deve ser direcionado para a página de descrição detalhada do local/estabelecimento.|
+|Resultado:|Redirecionamento para nova página após clicar o botão “saiba mais”.|
 |Observação: ||	
 
 |Caso de Teste|CT-010|
 |-|-|
-|Requisitos que motivaram o teste:|**RNF-009:** Ter a opção de avaliar os pontos turísticos e hospedagens.|
-|Objetivo do teste:|Certificar-se de que um usuário possa avaliar o ponto turístico e que a sua nota conte para a nota global daquele ponto turístico.|
-|Condição para aprovado:|3 usuários devem fornecer notas para 3 pontos turísticos distintos, e as suas notas contam para a média de nota de cada um deles.|
-|Resultado:|Avaliação de uma localidade pela média de notas dos usuários.|
+|Requisitos que motivaram o teste:|**RF-010:** Apresentar uma aba de pesquisa onde o usuário poderá verificar os serviços públicos disponíveis na região desejada  |
+|Objetivo do teste:|Averiguar se ao selecionar a localidade, todos os pontos turísticos naquela cidade aparecem para o usuário.|
+|Condição para aprovado:|Testar 3 localidades em cidades diferentes e todos os pontos turísticos daquela cidade devem aparecer para o usuário ao realizar a busca.|
+|Resultado:|Visualização dos pontos turísticos após selecionar uma cidade qualquer.|
 |Observação: ||	
 
 |Caso de Teste|CT-011|
 |-|-|
-|Requisitos que motivaram o teste:|**RNF-010:** Apresentar uma aba de pesquisa onde o usuário poderá verificar os pontos turísticos da cidade e/ou região desejada.|
-|Objetivo do teste:| Averiguar se ao selecionar a localidade, todos os pontos turísticos naquela cidade aparecem para o usuário.|
-|Condição para aprovado:|Testar 3 localidades em cidades diferentes e todos os pontos turísticos daquela cidade devem aparecer para o usuário ao realizar a busca.|
-|Resultado:| Visualização dos pontos turísticos após selecionar uma cidade qualquer.|
+|Requisitos que motivaram o teste:|**RF-009:** Opção de visualizar informações como endereços e telefones da instituição pública selecionada.   |
+|Objetivo do teste:| Certificar-se de que o endereço da instituição e o número estão certos.|
+|Condição para aprovado:|Após selecionar a instituição no campo de pesquisa, informações como endereço e telefone devem ser exibidos na tela do app..|
+|Resultado:|Exibição dos dados na tela. |
 |Observação: ||	
 
 |Caso de Teste|CT-012|
 |-|-|
-|Requisitos que motivaram o teste:|**RNF-010:** Apresentar uma aba de pesquisa onde o usuário poderá verificar os pontos turísticos da cidade e/ou região desejada.|
-|Objetivo do teste:|Averiguar se ao selecionar a localidade, todos os pontos turísticos naquela cidade aparecem para o usuário.|
-|Condição para aprovado:|Testar 3 localidades em cidades diferentes e todos os pontos turísticos daquela cidade devem aparecer para o usuário ao realizar a busca.|
-|Resultado:|Visualização dos pontos turísticos após selecionar uma cidade qualquer.|
+|Requisitos que motivaram o teste:|**RNF-001:** O aplicativo deverá ser compatível com os principais aparelhos do mercado (Android).
+RNF-002: O aplicativo deverá ser responsivo permitindo a visualização em celular e tablet de forma adequada.
+|
+|Objetivo do teste:|Todas as funcionalidades descritas no backlog funcionam em Android e iOS.|
+|Condição para aprovado:| Um usuário realizará todos os casos de teste descritos para os requisitos funcionais de RF-001 a RF-010 ao menos uma vez a partir de um aparelho iOS e um aparelho Android e todos devem ser aprovados.|
+|Resultado:|Aplicativo funcional nas plataformas Android e IOS.|
 |Observação: ||
 
 |Caso de Teste|CT-013|
