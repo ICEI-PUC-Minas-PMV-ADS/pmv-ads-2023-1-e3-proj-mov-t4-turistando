@@ -1,21 +1,21 @@
-import React from 'react';
-import { StyleSheet, Image } from 'react-native';
+import { useNavigation } from "@react-navigation/native";
+import React from "react";
+import { StyleSheet, Image, ImageBackground } from "react-native";
+import { Button } from "react-native-paper";
 
 const Logo = () => {
-
-  return <Image style = {styles.image} source = {require ('../assets/turistando.png')}/>
-
+  const navigation = useNavigation();
+  return (
+    <Button
+      textColor="white"
+      icon={"alpha-t-box-outline"}
+      onPress={() => navigation.navigate("Home")}
+    >
+      Turistando
+    </Button>
+  );
 };
 
-const styles = StyleSheet.create ({
 
-  image:{
-    width: 300,
-    height: 128,
-    borderRadius: 30
-    
-  }
-
-});
 
 export default Logo;

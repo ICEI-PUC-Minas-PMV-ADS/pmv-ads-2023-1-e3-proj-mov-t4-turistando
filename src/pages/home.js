@@ -14,11 +14,7 @@ const Home = () => {
       <Header>
         <ScrollView>
           <Carousels />
-          <Cards
-            nome={"Painel"}
-            icon={"airballoon-outline"}
-            rota={() => navigation.navigate("Painel")}
-          />
+          
           <Cards
             nome={"Pontos Turisticos"}
             icon={"airballoon-outline"}
@@ -40,6 +36,12 @@ const Home = () => {
             rota={() => navigation.navigate("Lojas")}
           />
           <Cards
+            nome={"Eventos"}
+            icon={"party-popper"}
+            rota={() => navigation.navigate("Eventos")}
+          />
+          <Cards
+          
             nome={"Serviços Publicos"}
             icon={"account-search-outline"}
             rota={() => navigation.navigate("Servicos")}

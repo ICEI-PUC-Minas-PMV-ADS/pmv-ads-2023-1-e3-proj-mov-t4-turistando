@@ -1,6 +1,6 @@
 import React from 'react';
 
-import {useUser} from '../contexts/UserContext';
+import {useUser} from '../context/UserContext';
 
 import Main from './main';
 import Auth from './auth';
@@ -14,8 +14,8 @@ const Route = () => {
     <>
     {
       signed
-      ? <Main />
-      : <Auth />
+      ? <Auth />
+      : <Main />
     }
     </>
   )

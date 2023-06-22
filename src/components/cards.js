@@ -1,25 +1,45 @@
 import * as React from 'react';
-import { StyleSheet } from 'react-native';
-import { Card } from 'react-native-paper';
+import { View, StyleSheet, ScrollView } from 'react-native';
+import { Avatar, Card } from 'react-native-paper';
 
 
-const Cards = () => (
+const Cards = ({ nome, rota,icon}) => (
 
-<Card>
-      <Card.Cover style={styles.img} source={{ uri: 'https://snack-code-uploads.s3.us-west-1.amazonaws.com/~asset/fbc0ce297522e2de5ad04cddbd3f9f7a' }}/>
-</Card>
-
+    
+  
+  
+    <Card onPress={rota} style={styles.card}>
+      <Card.Title
+        title={nome}
+        left={(props) => (
+          <Avatar.Icon
+            color="white"
+            
+            style={styles.cardAvatar}
+            {...props}
+            icon={icon}
+          />
+        )}
+      />
+    </Card>
+  
 );
 
-
-
 const styles = StyleSheet.create({
-  img: {
-    width: 400,
-    heigth: 300,
+ 
+
+  card: {
+    
+    backgroundColor: '#9CF591',
+    title:'',
+    marginVertical: 10,
+    padding:5,
+    marginHorizontal: 5,
+    font: 'bold',
   },
-
+  cardAvatar: {
+    backgroundColor: '#0F3F0a',
+  },
 });
-
 
 export default Cards;
