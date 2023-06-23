@@ -67,58 +67,91 @@ Eixo 3: Desenvolvimento de uma aplicação móvel em um ambiente de negócio Tur
 
 <div align="center">
 <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/225cb0f0-94e2-4a49-bc2c-fb9326ec8072" width="300px"> 
-<br>
+
 <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/06ce9dbe-fdd9-475f-87a1-76c5ed5f02bb" width="300px"> 
 </div>
 
 ### LAYOUT PONTOS TURÍSTICOS
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/76b03c8a-4121-46a5-bb10-d1f3163b8a29)
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/e5052c14-a297-415a-bf06-3de7422d947b)
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/f1ee474c-0991-4bc7-9d28-e933074ef59c)
+<div align="center">
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/76b03c8a-4121-46a5-bb10-d1f3163b8a29" width="270px"> 
+
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/e5052c14-a297-415a-bf06-3de7422d947b" width="315px"> 
+
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/f1ee474c-0991-4bc7-9d28-e933074ef59c" width="300px"> 
+</div>
 
 ### LAYOUT ONDE COMER
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/9a3c036e-5aea-499c-96f7-8b9e3fdb81d6)
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/601390f9-0db5-4c15-90c3-6add637f2194)
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/f898ed0a-75da-43da-9faf-62cee85e935d)
+<div align="center">
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/9a3c036e-5aea-499c-96f7-8b9e3fdb81d6" width="300px"> 
+
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/601390f9-0db5-4c15-90c3-6add637f2194" width="300px"> 
+
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/f898ed0a-75da-43da-9faf-62cee85e935d" width="300px"> 
+</div>
 
 ### LAYOUT EVENTOS
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/03d0498a-023d-4298-a80b-85990c50ab7f)
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/5bfc41a4-0353-47de-b20f-d2ffdbb1b0c8)
+<div align="center">
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/03d0498a-023d-4298-a80b-85990c50ab7f" width="300px"> 
+
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/5bfc41a4-0353-47de-b20f-d2ffdbb1b0c8" width="300px"> 
+</div>
 
 ### LAYOUT ONDE DORMIR
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/cba1b51e-28cb-46dc-b081-6a5983ceb1be)
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/1fdbf72a-7b42-45c5-95c8-533bbd9d8937)
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/0798ccb6-2198-4e86-ba55-bea090f0c762)
+<div align="center">
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/cba1b51e-28cb-46dc-b081-6a5983ceb1be" width="300px"> 
+
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/1fdbf72a-7b42-45c5-95c8-533bbd9d8937" width="300px"> 
+
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/0798ccb6-2198-4e86-ba55-bea090f0c762" width="300px"> 
+</div>
 
 ### LAYOUT LOJAS
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/1e2193d3-7722-4a76-92f2-b9f22d4dcb06)
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/e996b84a-b4c9-4b03-9ae0-7b6a14eb8bff)
+<div align="center">
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/1e2193d3-7722-4a76-92f2-b9f22d4dcb06" width="300px"> 
+
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/e996b84a-b4c9-4b03-9ae0-7b6a14eb8bff" width="300px"> 
+</div>
 
 ### LAYOUT SERVIÇOS PÚBLICOS
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/7838e4ff-4900-4bec-8ef0-d97ca6ceb95b)
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/59df94af-874c-469a-9786-eb405fb54488)
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/9d78dc5d-5a28-4dff-8be4-992dd6700674)
+<div align="center">
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/7838e4ff-4900-4bec-8ef0-d97ca6ceb95b" width="300px"> 
+
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/59df94af-874c-469a-9786-eb405fb54488" width="300px"> 
+
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/9d78dc5d-5a28-4dff-8be4-992dd6700674" width="300px"> 
+</div>
 
 ### LAYOUT CADASTRAR E LOGIN
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/cd208e3a-e37d-4a9f-8634-db0b2e132c00)
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/4e900f4b-a789-4c1e-b328-15fdb210ef08)
+<div align="center">
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/cd208e3a-e37d-4a9f-8634-db0b2e132c00" width="300px"> 
+
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/4e900f4b-a789-4c1e-b328-15fdb210ef08" width="300px"> 
+</div>
 
 ### LAYOUT TERMOS DE USO
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/3b0e7314-4e31-4b2d-b1e4-ce383efa3281)
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/795ea0cf-87af-4ce1-9223-d36c6923647f)
+<div align="center">
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/3b0e7314-4e31-4b2d-b1e4-ce383efa3281" width="300px"> 
+
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/795ea0cf-87af-4ce1-9223-d36c6923647f" width="300px"> 
+</div>
 
 ### LAYOUT POLITICA DE PRIVACIDADE
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/b580c094-3907-4f29-99ea-95a7cf2675a3)
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/63f99bf8-4ff6-403a-ae9a-12c1618ef77f)
+<div align="center">
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/b580c094-3907-4f29-99ea-95a7cf2675a3" width="300px"> 
+
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/63f99bf8-4ff6-403a-ae9a-12c1618ef77f" width="300px"> 
+</div>
+
+<br>
 
 O teste de usabilidade foi elaborado utilizando a plataforma online Google Forms, seguindo a sequência de perguntas referentes aos layouts e usabilidade da aplicação Turistando para obter a avaliação da experiência do usuário. O resultado da pesquisa é demonstrado nos gráficos logo abaixo:
 
