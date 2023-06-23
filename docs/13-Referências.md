@@ -1,12 +1,12 @@
 # Referências
 
-•	MAGALHÃES, Rodrigo: Turismo Pós-pandemia: Impactos e tendências de uma grande retomada. Americachip, agosto de 2022. Disponível em < https://americachip.com/turismo-pos-pandemia/> Acesso em: 14 de abril de 2023
-
-•	CNN Viagem & Gastronomia: Viagens mais curtas e geração Z impulsionam turismo brasileiro no pós-pandemia. CNN Brasil, abril de 2023. Disponível em < https://www.cnnbrasil.com.br/viagemegastronomia/destinos/viagens-maiscurtas-e-geracao-z-impulsionam-turismo-brasileiro-no-pos-pandemia/ >Acesso em: 28 de abril de 2023
-
 •	BARBOSA, Luiz Gustavo M.: Impacto econômico do Covid-19 – Propostas para o turismo brasileiro. Centro de Estudos em Competitividade da FGV/EBAPE, abril de 2020.                                                                                                      
 Disponível em <https://fgvprojetos.fgv.br/sites/fgvprojetos.fgv.br/files/01.covid19_impactoeconomico_v09_compressed_1.pdf > 
 Acesso em: 27 de março de 2023
+
+•	MAGALHÃES, Rodrigo: Turismo Pós-pandemia: Impactos e tendências de uma grande retomada. Americachip, agosto de 2022. Disponível em < https://americachip.com/turismo-pos-pandemia/> Acesso em: 14 de abril de 2023
+
+•	CNN Viagem & Gastronomia: Viagens mais curtas e geração Z impulsionam turismo brasileiro no pós-pandemia. CNN Brasil, abril de 2023. Disponível em < https://www.cnnbrasil.com.br/viagemegastronomia/destinos/viagens-maiscurtas-e-geracao-z-impulsionam-turismo-brasileiro-no-pos-pandemia/ >Acesso em: 28 de abril de 2023
 
 •	Filomeno, Daniela: Lugares para viajar no Brasil: 30 destinos para conhecer em 2023. CNN Brasil, junho de 2023. Disponível em < https://www.cnnbrasil.com.br/viagemegastronomia/cnn-viagem-gastronomia/lugares-para-viajar-no-brasil/> Acesso em: 28 de abril de 2023
 
