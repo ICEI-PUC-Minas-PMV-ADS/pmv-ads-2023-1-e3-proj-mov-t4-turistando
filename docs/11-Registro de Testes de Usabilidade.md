@@ -43,17 +43,84 @@ Como método adotado para avaliar a percepção e facilidade de manuseio da apli
 
 Eixo 3: Desenvolvimento de uma aplicação móvel em um ambiente de negócio Turistando
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/102244252/a111177b-ecd3-47f8-a15e-525ec9de7ad1)
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/102244252/914e178d-5c4b-4259-875c-469451c831bd)
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/102244252/72bee3f3-d1a5-4e80-8392-c09409a25103)
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/102244252/f4356928-37f0-4ffa-b050-7df5bc18a095)
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/102244252/0c789e33-e653-4cb6-a937-106c3bd06aa4)
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/102244252/6dcdc3c8-60ba-4213-ba32-fa1e4bd3c4ee)
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/102244252/86d38f21-8292-48c7-a35f-a084d2073f08)
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/102244252/ee7252c0-3650-46ad-9cf6-7b1be3c3a8b8)
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/102244252/b84cdac0-88f3-4650-9fe3-65b285fc04ae)
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/102244252/947f5005-13b5-41b8-9a2d-12140c360dd5)
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/102244252/06705281-3b05-4f7f-8d1a-fc0fd18a961e)
+### LAYOUT HOME PAGE
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/225cb0f0-94e2-4a49-bc2c-fb9326ec8072)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/06ce9dbe-fdd9-475f-87a1-76c5ed5f02bb)
+
+### LAYOUT PONTOS TURÍSTICOS
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/76b03c8a-4121-46a5-bb10-d1f3163b8a29)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/e5052c14-a297-415a-bf06-3de7422d947b)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/f1ee474c-0991-4bc7-9d28-e933074ef59c)
+
+### LAYOUT ONDE COMER
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/9a3c036e-5aea-499c-96f7-8b9e3fdb81d6)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/601390f9-0db5-4c15-90c3-6add637f2194)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/f898ed0a-75da-43da-9faf-62cee85e935d)
+
+### LAYOUT EVENTOS
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/03d0498a-023d-4298-a80b-85990c50ab7f)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/5bfc41a4-0353-47de-b20f-d2ffdbb1b0c8)
+
+### LAYOUT ONDE DORMIR
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/cba1b51e-28cb-46dc-b081-6a5983ceb1be)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/1fdbf72a-7b42-45c5-95c8-533bbd9d8937)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/0798ccb6-2198-4e86-ba55-bea090f0c762)
+
+### LAYOUT LOJAS
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/1e2193d3-7722-4a76-92f2-b9f22d4dcb06)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/e996b84a-b4c9-4b03-9ae0-7b6a14eb8bff)
+
+### LAYOUT SERVIÇOS PÚBLICOS
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/7838e4ff-4900-4bec-8ef0-d97ca6ceb95b)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/59df94af-874c-469a-9786-eb405fb54488)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/9d78dc5d-5a28-4dff-8be4-992dd6700674)
+
+### LAYOUT CADASTRAR E LOGIN
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/cd208e3a-e37d-4a9f-8634-db0b2e132c00)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/4e900f4b-a789-4c1e-b328-15fdb210ef08)
+
+### LAYOUT TERMOS DE USO
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/3b0e7314-4e31-4b2d-b1e4-ce383efa3281)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/795ea0cf-87af-4ce1-9223-d36c6923647f)
+
+### LAYOUT POLITICA DE PRIVACIDADE
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/b580c094-3907-4f29-99ea-95a7cf2675a3)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/63f99bf8-4ff6-403a-ae9a-12c1618ef77f)
+
+O teste de usabilidade foi elaborado utilizando a plataforma online Google Forms, seguindo a sequência de perguntas referentes aos layouts e usabilidade da aplicação Turistando para obter a avaliação da experiência do usuário. O resultado da pesquisa é demonstrado nos gráficos logo abaixo:
+
+1. Percepção sobre o layout (Cores e organização dos elementos na tela)
+2. Responsividade (Aplicação adaptável a diferentes tamanhos de tela)
+3. Acessibilidade (Facilidade e legibilidade das informações apresentadas)
+4. Identidade Visual (Logomarca da solução e fotos dos estabelecimentos)
+5. Componentes (Componentes percebidos de forma intuitiva durante o uso)
+6. Navegação (Boa fluidez ao navegar pelas páginas e funções dentro do app)
+7. Avaliação geral de uso
+
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/102244252/732b7883-9ebe-4d51-8a76-a2d60582836c)
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/102244252/09a8ef16-8907-47a7-80ed-7fc8564bf9e8)
@@ -66,8 +133,3 @@ Eixo 3: Desenvolvimento de uma aplicação móvel em um ambiente de negócio Tur
 ## Conclusão
 
 A partir da avaliação dos usuários foi possível concluir que a aplicação desenvolvida conseguiu alcançar a finalidade de suprir os requisitos básicos para seu funcionamento. As repostas-testes demonstraram que o software teve uma avalição positiva em todos seus aspectos, demonstrando ser intuitiva e de fácil uso. A navegabilidade, intuitividade, acesso as informações e identidade visual foram implementados de tal forma que possibilitaram o cliente a acessar os dados que ele almeja, tornando a aplicação viável para o uso. Ainda que haja possíveis melhorias ou aperfeiçoamentos a serem feitos, no computo geral, o software é eficiente e alcança os requisitos propostos a ela.
-
-
-
-
-
