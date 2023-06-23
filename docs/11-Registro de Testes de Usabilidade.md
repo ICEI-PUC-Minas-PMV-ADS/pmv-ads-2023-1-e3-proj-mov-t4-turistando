@@ -7,7 +7,7 @@ O teste foi feito na plataforma Maze (maze.co) e segue uma sequência de etapas 
 1. Pergunta: Você aceita participar deste teste de usabilidade? Ele tem como objetivo testar a eficiência de uma aplicação, chamada Turistando, que auxilia pessoas com objetivo de viajar. 
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/102244252/236699830-e1c2da5c-7e3f-43d6-a85d-bb4c1199d793.png" width="30px">  
+<img src="https://user-images.githubusercontent.com/102244252/236699830-e1c2da5c-7e3f-43d6-a85d-bb4c1199d793.png">  
 </div>
 
 2. Pergunta: Você já visitou ou conhece alguém que tenha visitado áreas turísticas? 
