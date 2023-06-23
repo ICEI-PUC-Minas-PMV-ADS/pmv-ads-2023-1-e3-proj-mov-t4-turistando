@@ -63,7 +63,8 @@ Turistando
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/102244252/68533ad1-e9b1-4a05-b930-f6f43c6cda1a)
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/102244252/49428baf-8227-4bd2-bc7c-e6d39cc97859)
 
-13.1. Conclusão
+# Conclusão
+
 A partir da avaliação dos usuários foi possível concluir que a aplicação desenvolvida conseguiu alcançar a finalidade de suprir os requisitos básicos para seu funcionamento. As repostas-testes demonstraram que o software teve uma avalição positiva em todos seus aspectos, demonstrando ser intuitiva e de fácil uso. A navegabilidade, intuitividade, acesso as informações e identidade visual foram implementados de tal forma que possibilitaram o cliente a acessar os dados que ele almeja, tornando a aplicação viável para o uso. Ainda que haja possíveis melhorias ou aperfeiçoamentos a serem feitos, no computo geral, o software é eficiente e alcança os requisitos propostos a ela.
 
 
