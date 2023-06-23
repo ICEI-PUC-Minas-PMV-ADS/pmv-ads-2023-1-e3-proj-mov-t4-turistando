@@ -29,9 +29,8 @@ O teste foi feito na plataforma Maze (maze.co) e segue uma sequência de etapas 
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/102244252/236699830-e1c2da5c-7e3f-43d6-a85d-bb4c1199d793.png">  
+<img src="https://user-images.githubusercontent.com/102244252/236699911-f874a297-ded4-42ed-9463-5920e3a0c384.png">  
 </div>
-![image](https://user-images.githubusercontent.com/102244252/236699911-f874a297-ded4-42ed-9463-5920e3a0c384.png)
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/102244252/236699920-7870fbae-141c-4fc1-b5a0-33945a313fdd.png">  
@@ -43,13 +42,19 @@ O teste foi feito na plataforma Maze (maze.co) e segue uma sequência de etapas 
 
 5. Pergunta de escala: Qual foi o nível de dificuldade que você encontrou para realizar a tarefa? 
 
-![image](https://user-images.githubusercontent.com/102244252/236699953-74d4dbf4-17a9-4153-aa36-d9c95b8e2222.png)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/102244252/236699953-74d4dbf4-17a9-4153-aa36-d9c95b8e2222.png">  
+</div>
 
-![image](https://user-images.githubusercontent.com/102244252/236699961-45abf20d-afd7-4006-bb4d-e85e7a08c72a.png)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/102244252/236699961-45abf20d-afd7-4006-bb4d-e85e7a08c72a.png">  
+</div>
 
 6. Pergunta de escala: Quanto você recomendaria a plataforma para outros usuários que planejam uma viagem? 
 
-![image](https://user-images.githubusercontent.com/102244252/236699980-91981003-16c5-4e90-adb5-f4469545808c.png)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/102244252/236699980-91981003-16c5-4e90-adb5-f4469545808c.png">  
+</div>
 
 ## Registro de Testes de Usabilidade (APP Turistando)
 
