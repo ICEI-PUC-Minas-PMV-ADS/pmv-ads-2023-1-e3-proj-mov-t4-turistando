@@ -67,7 +67,7 @@ Eixo 3: Desenvolvimento de uma aplicação móvel em um ambiente de negócio Tur
 
 <div align="center">
 <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/225cb0f0-94e2-4a49-bc2c-fb9326ec8072" width="300px"> 
-
+<br>
 <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/06ce9dbe-fdd9-475f-87a1-76c5ed5f02bb" width="300px"> 
 </div>
 
