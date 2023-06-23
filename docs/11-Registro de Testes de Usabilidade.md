@@ -46,15 +46,12 @@ Eixo 3: Desenvolvimento de uma aplicação móvel em um ambiente de negócio Tur
 ### LAYOUT HOME PAGE
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/225cb0f0-94e2-4a49-bc2c-fb9326ec8072)
-
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/06ce9dbe-fdd9-475f-87a1-76c5ed5f02bb)
 
 ### LAYOUT PONTOS TURÍSTICOS
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/76b03c8a-4121-46a5-bb10-d1f3163b8a29)
-
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/e5052c14-a297-415a-bf06-3de7422d947b)
-
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/103782980/f1ee474c-0991-4bc7-9d28-e933074ef59c)
 
 ### LAYOUT ONDE COMER
