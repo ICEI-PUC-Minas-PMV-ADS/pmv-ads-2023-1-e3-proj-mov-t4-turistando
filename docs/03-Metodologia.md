@@ -58,7 +58,8 @@ A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para def
 O grupo utilizou o recurso de gerenciamento de projeto oferecido pelo GitHub, que permite acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução. Acesse em: [Github](https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/287/views/1)
 
  
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/blob/87f143047d609040e95c8b819c4d40a191025990/docs/img/Planejamento_Atualizado.png)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/blob/6008e66680e35211576525157e12e243bb3784ae/docs/img/Backlog.PNG)
+
 
 ### Ferramentas
 
