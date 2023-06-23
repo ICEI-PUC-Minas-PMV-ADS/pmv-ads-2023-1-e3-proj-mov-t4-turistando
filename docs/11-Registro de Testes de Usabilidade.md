@@ -36,12 +36,12 @@ O teste foi feito na plataforma Maze (maze.co) e segue uma sequência de etapas 
 
 ![image](https://user-images.githubusercontent.com/102244252/236699980-91981003-16c5-4e90-adb5-f4469545808c.png)
 
-# Registro de Testes de Usabilidade (APP Turistando)
+## Registro de Testes de Usabilidade (APP Turistando)
 
-O teste de usabilidade foi elaborado utilizando a plataforma online Google Forms, seguindo a sequência de perguntas referentes às etapas para obter a avaliação da experiência do usuário.
+Com a adoção de uma interface simples e amigável, a aplicação Turistando tem como objetivo principal proporcionar ao usuário uma experiência excepcional, descomplicando o planejamento e a organização de suas aventuras de maneira intuitiva.                        
+Como método adotado para avaliar a percepção e facilidade de manuseio da aplicação pelo usuário final, foram propostos testes de uso a fim de identificar os caminhos tomados pelo usuário para alcançar o objetivo desejado – encontrar um ponto turístico, assim como estabelecimentos próximos ao destino almejado. Para isso, foram demonstrados layouts das páginas internas do app de maneira separada e organizada por tópicos, e a posteriori, foi solicitado o preenchimento de um questionário de opinião sobre o funcionamento do app Turistando.
 
-Eixo 3: Desenvolvimento de uma aplicação móvel em um ambiente de negócio
-Turistando
+Eixo 3: Desenvolvimento de uma aplicação móvel em um ambiente de negócio Turistando
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/102244252/a111177b-ecd3-47f8-a15e-525ec9de7ad1)
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando/assets/102244252/914e178d-5c4b-4259-875c-469451c831bd)
