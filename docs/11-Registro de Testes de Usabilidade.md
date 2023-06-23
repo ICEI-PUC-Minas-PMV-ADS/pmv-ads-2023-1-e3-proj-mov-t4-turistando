@@ -12,21 +12,34 @@ O teste foi feito na plataforma Maze (maze.co) e segue uma sequência de etapas 
 
 2. Pergunta: Você já visitou ou conhece alguém que tenha visitado áreas turísticas? 
 
-![image](https://user-images.githubusercontent.com/102244252/236699854-c1c709aa-6950-42ee-b601-6c9d77e03385.png)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/102244252/236699854-c1c709aa-6950-42ee-b601-6c9d77e03385.png">  
+</div>
 
 3. Pergunta: Você consideraria fazer parte dessa comunidade apoiando com dicas de bons lugares de turismo? 
 
-![image](https://user-images.githubusercontent.com/102244252/236699872-f1f83775-1d44-4645-b9ff-f77e8502d41b.png)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/102244252/236699872-f1f83775-1d44-4645-b9ff-f77e8502d41b.png">  
+</div>
 
 4. Tarefa: Encontre e selecione uma atração turística para visitar. 
 
-![image](https://user-images.githubusercontent.com/102244252/236699895-ec5a00d4-66f3-4a59-a161-ae7245bc5263.png)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/102244252/236699895-ec5a00d4-66f3-4a59-a161-ae7245bc5263.png">  
+</div>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/102244252/236699830-e1c2da5c-7e3f-43d6-a85d-bb4c1199d793.png">  
+</div>
 ![image](https://user-images.githubusercontent.com/102244252/236699911-f874a297-ded4-42ed-9463-5920e3a0c384.png)
 
-![image](https://user-images.githubusercontent.com/102244252/236699920-7870fbae-141c-4fc1-b5a0-33945a313fdd.png)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/102244252/236699920-7870fbae-141c-4fc1-b5a0-33945a313fdd.png">  
+</div>
 
-![image](https://user-images.githubusercontent.com/102244252/236699929-4ffe9afc-2259-4c24-9d8c-b507d8ad18ee.png)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/102244252/236699929-4ffe9afc-2259-4c24-9d8c-b507d8ad18ee.png">  
+</div>
 
 5. Pergunta de escala: Qual foi o nível de dificuldade que você encontrou para realizar a tarefa? 
 
