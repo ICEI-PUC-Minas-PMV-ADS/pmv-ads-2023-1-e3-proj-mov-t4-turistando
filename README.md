@@ -51,10 +51,10 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 #### Para visualizar a solução no ambiente online Expo, copie e cole o link abaixo em seu navegador:<br>
 <br>
 (Solução completa com login)
-<li><a href="src/README.md"> https://snack.expo.dev/@turistando/appturistando_expo?platform=android</a></li>
+<li><a href="src/README.md">https://snack.expo.dev/@turistando/appturistando_expo?platform=android</a></li>
 <br>
 (Solução sem necessidade de login)
-<li><a href="src/README.md"> https://snack.expo.dev/@turistando/appturistando_homepage</a></li>
+<li><a href="src/README.md">https://snack.expo.dev/@turistando/appturistando_homepage?platform=android</a></li>
 
 # Apresentação
 
@@ -111,10 +111,10 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 #### Para visualizar a solução no ambiente online Expo, copie e cole o link abaixo em seu navegador:<br>
 <br>
 (Solução completa com login)
-<li><a href="src/README.md"> https://snack.expo.dev/@turistando/appturistando_expo?platform=android</a></li>
+<li><a href="src/README.md">https://snack.expo.dev/@turistando/appturistando_expo?platform=android</a></li>
 <br>
 (Solução sem necessidade de login)
-<li><a href="src/README.md"> https://snack.expo.dev/@turistando/appturistando_homepage</a></li>
+<li><a href="src/README.md">https://snack.expo.dev/@turistando/appturistando_homepage?platform=android</a></li>
 
 # Apresentação
 
