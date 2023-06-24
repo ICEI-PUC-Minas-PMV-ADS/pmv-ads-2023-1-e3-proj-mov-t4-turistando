@@ -44,10 +44,17 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 <li><a href="docs/12-Apresentação do Projeto.md"> Apresentação do Projeto</a></li>
 <li><a href="docs/13-Referências.md"> Referências</a></li>
 </ol>
-.
-# Código
 
-<li><a href="src/README.md"> Código Fonte</a></li>
+
+## Código fonte do aplicativo Turistando
+
+#### Para visualizar a solução no ambiente online Expo, copie e cole o link abaixo em seu navegador:<br>
+<br>
+(Solução completa com login)
+<li><a href="src/README.md"> https://snack.expo.dev/@turistando/appturistando_expo?platform=android</a></li>
+<br>
+(Solução sem necessidade de login)
+<li><a href="src/README.md"> https://snack.expo.dev/@turistando/appturistando_homepage</a></li>
 
 # Apresentação
 
@@ -98,10 +105,16 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 <li><a href="docs/12-Apresentação do Projeto.md"> Apresentação do Projeto</a></li>
 <li><a href="docs/13-Referências.md"> Referências</a></li>
 </ol>
-.
-# Código
 
+## Código fonte do aplicativo Turistando <br>
+
+#### Para visualizar a solução no ambiente online Expo, copie e cole o link abaixo em seu navegador:<br>
+<br>
+(Solução completa com login)
 <li><a href="src/README.md"> https://snack.expo.dev/@turistando/appturistando_expo?platform=android</a></li>
+<br>
+(Solução sem necessidade de login)
+<li><a href="src/README.md"> https://snack.expo.dev/@turistando/appturistando_homepage</a></li>
 
 # Apresentação
 
