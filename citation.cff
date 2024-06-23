@@ -1,0 +1,31 @@
+message: Please cite this software using these metadata.
+title: Turistando – Aplicativo atrações turísticas
+authors:
+  - family-names: de Souza Freitas
+    given-names: Anna Karolina
+  - family-names: Ferreira Machado
+    given-names: Arthur Hudson
+  - family-names: Ferreira Ramos
+    given-names: Elder
+  - family-names: Ribeiro Nascente
+    given-names: Felipe Maurício
+  - family-names: Teixeira Félix
+    given-names: Franciele
+  - family-names: Bonfim Lima
+    given-names: Guilherme
+  - family-names: Fernandes Rosa
+    given-names: Matheus
+
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Curcino de Lima
+    given-names: Mateus
+keywords:
+  - Atrações turísticas
+  - Marketing
+  - Comércios locais
+  - Cultura
+
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-turistando
+version: 1.0.0
+date-released: 2023-06-23
